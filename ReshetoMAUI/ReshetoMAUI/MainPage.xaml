@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ReshetoMAUI.MainPage">
+
+    <ScrollView>
+        <AbsoluteLayout
+            x:Name="Layout">
+            <Label Text="Поиск простых чисел методом решета Эратосфена"
+                   AbsoluteLayout.LayoutBounds="700, 100">
+            </Label>
+            <Label AbsoluteLayout.LayoutBounds="700, 160"
+                   Text="Введите n: ">
+            </Label>
+            <Entry AbsoluteLayout.LayoutBounds="785, 150"
+                   x:Name="NEntry">
+            </Entry>
+            <Button AbsoluteLayout.LayoutBounds="850, 150"
+                    x:Name="StartButton"
+                    Text="Начать"
+                    Clicked="OnButtonClicked">
+            </Button>
+            <Label AbsoluteLayout.LayoutBounds="700, 200"
+                   x:Name="Remainder"
+                   TextColor="Red">
+            </Label>
+        </AbsoluteLayout>
+    </ScrollView>
+
+</ContentPage>
