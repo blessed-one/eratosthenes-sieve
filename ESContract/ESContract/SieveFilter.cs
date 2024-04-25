@@ -4,6 +4,9 @@ namespace ESContract
 {
     public class SieveFilter
     {
+        /// <summary>
+        /// Поле с клетками
+        /// </summary>
         private Field _field;
 
         /// <summary>
