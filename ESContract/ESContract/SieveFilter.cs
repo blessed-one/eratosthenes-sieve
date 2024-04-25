@@ -17,12 +17,12 @@ namespace ESContract
         /// <summary>
         /// Закончена ли работа фильтра
         /// </summary>
-        bool IsDone { get; set; }
+        public bool IsDone { get; set; }
 
         /// <summary>
         /// Очередь чисел на проверку
         /// </summary>
-        Queue<int> NumbersQueue { get; set; }
+        public Queue<int> NumbersQueue { get; set; }
 
         public SieveFilter()
         {
@@ -33,7 +33,7 @@ namespace ESContract
         /// <summary>
         /// Обработка чисел из NumbersQueue
         /// </summary>
-        void Operate()
+        public void Operate()
         {
             int number;
 
@@ -64,11 +64,17 @@ namespace ESContract
         /// Передача следующему фильтру одно значение
         /// </summary>
         /// <param name="num">Число на передачу</param>
-        void GiveNextOneNum(int num)
+        public void GiveNextOneNum(int num)
         {
             NextFilter.NumbersQueue.Enqueue(num);
         }
 
+        /// <summary>
+        /// Возвращает основное число фильтра и числа из очереди на проверку
+        /// </summary>
+        /// <returns>
+        /// Список чисел
+        /// </returns>
         public List<int> GetNumbers()
         {
             var result = NumbersQueue.ToList();
