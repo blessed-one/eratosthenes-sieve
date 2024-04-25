@@ -6,7 +6,7 @@
         /// Использует алгоритм "Решето Эратосфена"
         /// </summary>
         /// <returns>Массив простых чисел</returns>
-        int[] FindPrimes();
+        int[] FindPrimes(int n);
     }
 }
 
