@@ -5,9 +5,11 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <Title>Eratosthenes-sieve-filters</Title>
+    <Title>Eratosthenes sieve filters</Title>
     <Description>решето Эратосфена через конвеер фильтров</Description>
     <PackageIcon>kot-monah.jpg</PackageIcon>
+    <PackageId></PackageId>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

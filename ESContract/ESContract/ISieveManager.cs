@@ -1,6 +1,6 @@
 ﻿namespace ESContract
 {
-    interface ISieveManager
+    public interface ISieveManager
     {
         /// <summary>
         /// Использует алгоритм "Решето Эратосфена"
