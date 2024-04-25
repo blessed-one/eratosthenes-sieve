@@ -82,5 +82,19 @@ namespace ESContract
 
             return result;
         }
+
+        /// <summary>
+        /// Добавляет в очередь несколько чисел
+        /// </summary>
+        /// <param name="numbers">
+        /// Числа на добавление
+        /// </param>
+        public void AddNumbers(IEnumerable<int> numbers)
+        {
+            foreach (var number in numbers)
+            {
+                NumbersQueue.Enqueue(number);
+            }
+        }
     }
 }
