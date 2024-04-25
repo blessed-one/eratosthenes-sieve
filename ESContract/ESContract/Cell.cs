@@ -2,6 +2,7 @@
 {
     public class Cell
     {
+        public int Number { get; init; }
         public State State { get; private set; } = State.Unknown;
         public delegate void NotifyUpdate(int change);
         public event NotifyUpdate StateUpdateNotification;
