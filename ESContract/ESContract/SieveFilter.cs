@@ -4,28 +4,29 @@ namespace ESContract
 {
     public class SieveFilter
     {
+        private Field _field;
+
         /// <summary>
         /// Следующий фильтр в цепочке
         /// </summary>
         public SieveFilter NextFilter { get; set; }
-
         /// <summary>
         /// Число, кратность которому проверяет фильтр
         /// </summary>
         public int MainNumber { get; set; }
-
         /// <summary>
         /// Закончена ли работа фильтра
         /// </summary>
         public bool IsDone { get; set; }
-
         /// <summary>
         /// Очередь чисел на проверку
         /// </summary>
         public Queue<int> NumbersQueue { get; set; }
 
-        public SieveFilter()
+
+        public SieveFilter(Field field)
         {
+            _field = field;
             IsDone = false;
             NumbersQueue = new Queue<int>();
         }
@@ -41,20 +42,25 @@ namespace ESContract
             {
                 if (NumbersQueue.TryDequeue(out number))
                 {
-                    if (MainNumber == 0)
-                    {
-                        MainNumber = number;
-                        continue;
-                    }
-
-                    if (number % MainNumber != 0)
-                    {
-                        NextFilter.NumbersQueue.Enqueue(number);
-                    }
-
                     if (number == -1)
                     {
                         IsDone = true;
+                        continue;
+                    }
+
+                    if (MainNumber == 0)
+                    {
+                        _field.GetCell(number).UpdateState(State.Good);
+                        MainNumber = number;
+                    }
+                    else if (number % MainNumber != 0)
+                    {
+                        _field.GetCell(number).UpdateState(State.Good);
+                        NextFilter.NumbersQueue.Enqueue(number);
+                    }
+                    else
+                    {
+                        _field.GetCell(number).UpdateState(State.Bad);
                     }
                 }
             }
