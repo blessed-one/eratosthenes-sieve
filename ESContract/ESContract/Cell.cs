@@ -5,7 +5,7 @@
         public int Number { get; init; }
         public State State { get; private set; } = State.Unknown;
         public delegate void NotifyUpdate(int change);
-        public event NotifyUpdate StateUpdateNotification;
+        public event NotifyUpdate? StateUpdateNotification;
 
         /// <summary>
         /// Изменяет состояние клетки и оповещает подписчиков об этом изменении.
@@ -16,7 +16,7 @@
         public void UpdateState(State state)
         {
             State = state;
-            StateUpdateNotification((int)state);
+            if (StateUpdateNotification != null) { StateUpdateNotification((int)state); }
         }
     }
 }

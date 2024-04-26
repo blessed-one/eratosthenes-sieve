@@ -1,4 +1,5 @@
 ﻿using ESContract;
+using System;
 
 namespace ESContract
 {
@@ -26,7 +27,6 @@ namespace ESContract
         /// </summary>
         public Queue<int> NumbersQueue { get; set; }
 
-
         public SieveFilter(Field field)
         {
             _field = field;
@@ -47,8 +47,9 @@ namespace ESContract
                 {
                     if (number == -1)
                     {
+                        GiveNextOneNum(number);
                         IsDone = true;
-                        continue;
+                        break;
                     }
 
                     if (MainNumber == 0)
@@ -59,7 +60,7 @@ namespace ESContract
                     else if (number % MainNumber != 0)
                     {
                         _field.GetCell(number).UpdateState(State.Good);
-                        NextFilter.NumbersQueue.Enqueue(number);
+                        GiveNextOneNum(number);
                     }
                     else
                     {
@@ -68,7 +69,7 @@ namespace ESContract
                 }
             }
         }
-
+        
         /// <summary>
         /// Передача следующему фильтру одно значение
         /// </summary>

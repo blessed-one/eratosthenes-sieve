@@ -9,7 +9,8 @@
     <Description>решето Эратосфена через конвеер фильтров</Description>
     <PackageIcon>kot-monah.jpg</PackageIcon>
     <PackageId></PackageId>
-    <Version>1.0.7</Version>
+    <Version>1.1.0</Version>
+    <PackageOutputPath>C:\Users\1\inf-hw\NUGET_PAKETI</PackageOutputPath>
   </PropertyGroup>
 
   <ItemGroup>

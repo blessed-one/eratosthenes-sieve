@@ -1,4 +1,6 @@
-﻿namespace ESContract
+﻿using System;
+
+namespace ESContract
 {
     public class Field
     {
@@ -10,7 +12,14 @@
         {
             CellsCount = cellsCount;
             _size = CalculateSize();
-            CellField = new Cell[_size, _size]; ;
+            CellField = new Cell[_size, _size]; 
+            for(int i = 0; i < _size; i++)
+            {
+                for (int j = 0; j < _size; j++)
+                {
+                    CellField[i, j] = new Cell();
+                }
+            }
         }
 
         /// <summary>
@@ -47,6 +56,7 @@
             x = n / _size;
             y = n % _size;
 
+            Console.Write(" ");
             return CellField[x, y];
         }
     }
