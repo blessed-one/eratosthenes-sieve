@@ -1,24 +1,26 @@
-﻿namespace ESContract;
+﻿using System.Drawing;
 
-public interface IField
+namespace ESContract;
+
+public interface IField<T> where T : ICell
 {
     /// <summary>
-    /// Вычисляет оптимальный размер квадратного поля (X на X)
+    /// Размер поля
     /// </summary>
-    /// <returns>
-    /// Размер поля X
-    /// </returns>
-    public int CalculateSize();
+    public int Size { get; init; }
+    /// <summary>
+    /// Количество клеток
+    /// </summary>
+    public int CellsCount { get; init; }
+    /// <summary>
+    /// Матрица, хранящая клетки
+    /// </summary>
+    public T[,] CellField { get; init; }
 
     /// <summary>
-    /// Возвращает клетку с номером number
+    /// Возвращает клетку с данным номером
     /// </summary>
-    /// <param name="number">
-    /// Номер искомой клетки
-    /// </param>
-    /// <returns>
-    /// Искомая клетка
-    /// </returns>
-    public ICell GetCell(int number);
+    /// <param name="cellNumber">Номер искомой клетки</param>
+    /// <returns>Искомая клетка</returns>
+    public T GetCell(int cellNumber);
 }
-
