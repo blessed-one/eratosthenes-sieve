@@ -2,18 +2,26 @@
 using System.Diagnostics;
 
 
-public class SieveManager //: ISieveManager<Field, Cell>
+public class SieveManager : ISieveManager<Field, Cell>
 {
-    public int[] FindPrimes(int n, Field field)
+    public Field Field { get; set; }
+    public int NumbersCount {  get; set; }
+
+    public SieveManager(int n)
     {
-        if (n == 0)
+        NumbersCount = n;
+        Field = new Field(n);
+    }
+    public int[] FindPrimes()
+    {
+        if (NumbersCount == 0)
         {
             return new int[0];
         }
 
         // Поиск базиса простых чисел
         List<int> primeBasis = new();
-        for (int i = 2; i <= (int)Math.Pow(n, 0.5); i++)
+        for (int i = 2; i <= (int)Math.Pow(NumbersCount, 0.5); i++)
         {
             bool isPrime = true;
 
@@ -31,17 +39,17 @@ public class SieveManager //: ISieveManager<Field, Cell>
         int basisCount = primeBasis.Count;
 
         // Создание фильтров под каждое число базиса и связь фильтров в цепочку
-        List<SieveFilter> filters = new() { new SieveFilter(field) };
+        List<SieveFilter> filters = new() { new SieveFilter(Field) };
         for (int i = 1; i < basisCount; i++)
         {
-            var filter = new SieveFilter(field);
+            var filter = new SieveFilter(Field);
             filters.Add(filter);
             filters[i - 1].NextFilter = filter;
         }
         filters[^1].NextFilter = filters[0];
 
         // Добавление n чисел и -1 в самый первый фильтр
-        for (int i = 2; i <= n; i++)
+        for (int i = 2; i <= NumbersCount; i++)
         {
             filters[0].NumbersQueue.Enqueue(i);
         }
@@ -60,5 +68,10 @@ public class SieveManager //: ISieveManager<Field, Cell>
         result.Sort();
 
         return result.ToArray();
+    }
+
+    public void LinkMatrices(int i, int j, Action<State> action)
+    {
+        Field.CellField[i, j].StateUpdateNotification += action;
     }
 }
