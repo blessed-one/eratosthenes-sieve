@@ -2,11 +2,6 @@
 
 public interface ICell
 {
-    public delegate void NotifyUpdate(int change);
-    /// <summary>
-    /// Событие - обновление состояния клетки
-    /// </summary>
-    public event NotifyUpdate? StateUpdateNotification;
     /// <summary>
     /// Событие - обновление состояния клетки
     /// </summary>
