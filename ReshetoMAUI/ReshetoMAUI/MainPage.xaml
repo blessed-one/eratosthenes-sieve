@@ -7,22 +7,42 @@
         <AbsoluteLayout
             x:Name="Layout">
             <Label Text="Поиск простых чисел методом решета Эратосфена"
-                   AbsoluteLayout.LayoutBounds="700, 100">
+                   AbsoluteLayout.LayoutBounds="740, 100">
             </Label>
-            <Label AbsoluteLayout.LayoutBounds="700, 160"
+            <Label AbsoluteLayout.LayoutBounds="740, 160"
                    Text="Введите n: ">
             </Label>
-            <Entry AbsoluteLayout.LayoutBounds="785, 150"
+            <Entry AbsoluteLayout.LayoutBounds="825, 150"
                    x:Name="NEntry">
             </Entry>
-            <Button AbsoluteLayout.LayoutBounds="850, 150"
+            <Button AbsoluteLayout.LayoutBounds="740, 210"
+                    x:Name="GridButton"
+                    Text="Матрица"
+                    Clicked="OnGridClicked"
+                    IsEnabled="False">
+            </Button>
+            <Button AbsoluteLayout.LayoutBounds="847, 210"
                     x:Name="StartButton"
                     Text="Начать"
-                    Clicked="OnButtonClicked">
+                    Clicked="OnStartClicked"
+                    IsEnabled="False">
             </Button>
-            <Label AbsoluteLayout.LayoutBounds="700, 200"
-                   x:Name="Remainder"
+            <Button AbsoluteLayout.LayoutBounds="940, 210"
+                    x:Name="LoadButton"
+                    Text="Загрузыть сборку"
+                    Clicked="OnLoadClicked">
+            </Button>
+            <Label AbsoluteLayout.LayoutBounds="900, 160"
+                   x:Name="RemainderLabel"
                    TextColor="Red">
+            </Label>
+            <Label AbsoluteLayout.LayoutBounds="740, 300"
+                   x:Name="ResultLabel"
+                   BackgroundColor="White"
+                   TextColor="Black"
+                   Text="Простые числа до n:"
+                   WidthRequest="300"
+                   HeightRequest="150">
             </Label>
         </AbsoluteLayout>
     </ScrollView>
