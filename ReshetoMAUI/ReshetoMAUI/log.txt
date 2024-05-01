@@ -1,0 +1,136 @@
+30.04.2024 10:58:05: ESContract.ICell - Cell
+30.04.2024 10:58:05: ESContract.IField`1[T] - Field
+30.04.2024 10:58:05: ESContract.IFilter - SieveFilter
+30.04.2024 10:58:05: ESContract.ISieveManager`2[T,V] - SieveManager
+
+30.04.2024 11:23:31: ESContract.ICell
+30.04.2024 11:23:31: ESContract.IFilter
+
+30.04.2024 11:25:31: ESContract.ICell
+30.04.2024 11:25:31: ESContract.ICell <------
+30.04.2024 11:25:31: ESContract.ICell <------
+30.04.2024 11:25:31: ESContract.ICell <------
+30.04.2024 11:25:31: ESContract.ICell <------
+30.04.2024 11:25:31: ESContract.ICell <------
+30.04.2024 11:25:31: ESContract.ICell <------
+30.04.2024 11:25:31: ESContract.IField`1[T] <------
+30.04.2024 11:25:31: ESContract.IField`1[T] <------
+30.04.2024 11:25:31: ESContract.IField`1[T] <------
+30.04.2024 11:25:31: ESContract.IField`1[T] <------
+30.04.2024 11:25:31: ESContract.IField`1[T] <------
+30.04.2024 11:25:31: ESContract.IField`1[T] <------
+30.04.2024 11:25:31: ESContract.IField`1[T] <------
+30.04.2024 11:25:31: ESContract.IFilter <------
+30.04.2024 11:25:31: ESContract.IFilter <------
+30.04.2024 11:25:31: ESContract.IFilter <------
+30.04.2024 11:25:31: ESContract.IFilter <------
+30.04.2024 11:25:31: ESContract.IFilter
+30.04.2024 11:25:31: ESContract.IFilter <------
+30.04.2024 11:25:31: ESContract.IFilter <------
+30.04.2024 11:25:31: ESContract.ISieveManager`2[T,V] <------
+30.04.2024 11:25:31: ESContract.ISieveManager`2[T,V] <------
+30.04.2024 11:25:31: ESContract.ISieveManager`2[T,V] <------
+30.04.2024 11:25:31: ESContract.ISieveManager`2[T,V] <------
+30.04.2024 11:25:31: ESContract.ISieveManager`2[T,V] <------
+30.04.2024 11:25:31: ESContract.ISieveManager`2[T,V] <------
+30.04.2024 11:25:31: ESContract.ISieveManager`2[T,V] <------
+
+30.04.2024 11:58:01: ESContract.ICell - Cell
+30.04.2024 11:58:01: ESContract.IField`1 <-----
+
+30.04.2024 12:08:08: ESContract.ICell
+30.04.2024 12:08:08: ESContract.IField`1[T]
+30.04.2024 12:08:08: ESContract.IFilter
+30.04.2024 12:08:08: ESContract.ISieveManager`2[T,V]
+
+30.04.2024 12:09:35: ESContract.ICell
+30.04.2024 12:09:35: ESContract.IField`1[T]
+30.04.2024 12:09:35: ESContract.IFilter
+30.04.2024 12:09:35: ESContract.ISieveManager`2[T,V]
+
+30.04.2024 12:13:30: ESContract.ICell
+30.04.2024 12:13:30: ESContract.IField`1[T]
+30.04.2024 12:13:30: ESContract.IFilter
+30.04.2024 12:13:30: ESContract.ISieveManager`2[T,V]
+30.04.2024 12:15:51: ESContract.ICell
+30.04.2024 12:15:51: ESContract.IField`1[T]
+30.04.2024 12:15:51: ESContract.IFilter
+30.04.2024 12:15:51: ESContract.ISieveManager`2[T,V]
+
+30.04.2024 12:16:45: Метод: get_Field
+30.04.2024 12:16:46:     Возвращаемый тип: T
+30.04.2024 12:16:47:     Параметры:
+30.04.2024 12:16:51: Метод: set_Field
+30.04.2024 12:16:51:     Возвращаемый тип: System.Void
+30.04.2024 12:16:52:     Параметры:
+30.04.2024 12:16:53:     Тип: T, Имя: value
+30.04.2024 12:16:54: Метод: get_NumbersCount
+30.04.2024 12:16:54:     Возвращаемый тип: System.Int32
+30.04.2024 12:16:54:     Параметры:
+30.04.2024 12:16:54: Метод: set_NumbersCount
+30.04.2024 12:16:54:     Возвращаемый тип: System.Void
+30.04.2024 12:16:54:     Параметры:
+30.04.2024 12:16:54:     Тип: System.Int32, Имя: value
+30.04.2024 12:16:54: Метод: FindPrimes
+30.04.2024 12:16:54:     Возвращаемый тип: System.Int32[]
+30.04.2024 12:16:54:     Параметры:
+30.04.2024 12:16:54: Метод: LinkMatrices
+30.04.2024 12:16:54:     Возвращаемый тип: System.Void
+30.04.2024 12:16:54:     Параметры:
+30.04.2024 12:16:54:     Тип: System.Int32, Имя: i
+30.04.2024 12:16:54:     Тип: System.Int32, Имя: j
+30.04.2024 12:16:54:     Тип: System.Action`1[ESContract.State], Имя: action
+
+01.05.2024 12:49:55: Method Name: get_Field
+01.05.2024 12:49:55:   Parameters:
+01.05.2024 12:49:55:   Return Type: Field
+01.05.2024 12:49:55: 
+01.05.2024 12:49:55: Method Name: set_Field
+01.05.2024 12:49:55:   Parameters:
+01.05.2024 12:49:55:    - value: Field
+01.05.2024 12:49:55:   Return Type: System.Void
+01.05.2024 12:49:55: 
+01.05.2024 12:49:55: Method Name: get_NumbersCount
+01.05.2024 12:49:55:   Parameters:
+01.05.2024 12:49:55:   Return Type: System.Int32
+01.05.2024 12:49:55: 
+01.05.2024 12:49:55: Method Name: set_NumbersCount
+01.05.2024 12:49:55:   Parameters:
+01.05.2024 12:49:55:    - value: System.Int32
+01.05.2024 12:49:55:   Return Type: System.Void
+01.05.2024 12:49:55: 
+01.05.2024 12:49:55: Method Name: FindPrimes
+01.05.2024 12:49:55:   Parameters:
+01.05.2024 12:49:55:   Return Type: System.Int32[]
+01.05.2024 12:49:55: 
+01.05.2024 12:49:55: Method Name: LinkMatrices
+01.05.2024 12:49:55:   Parameters:
+01.05.2024 12:49:55:    - i: System.Int32
+01.05.2024 12:49:55:    - j: System.Int32
+01.05.2024 12:49:55:    - action: System.Action`1[ESContract.State]
+01.05.2024 12:49:55:   Return Type: System.Void
+01.05.2024 12:49:55: 
+01.05.2024 12:49:55: Method Name: GetType
+01.05.2024 12:49:55:   Parameters:
+01.05.2024 12:49:55:   Return Type: System.Type
+01.05.2024 12:49:55: 
+01.05.2024 12:49:55: Method Name: ToString
+01.05.2024 12:49:55:   Parameters:
+01.05.2024 12:49:55:   Return Type: System.String
+01.05.2024 12:49:55: 
+01.05.2024 12:49:55: Method Name: Equals
+01.05.2024 12:49:55:   Parameters:
+01.05.2024 12:49:55:    - obj: System.Object
+01.05.2024 12:49:55:   Return Type: System.Boolean
+01.05.2024 12:49:55: 
+01.05.2024 12:49:55: Method Name: GetHashCode
+01.05.2024 12:49:55:   Parameters:
+01.05.2024 12:49:55:   Return Type: System.Int32
+01.05.2024 12:49:55: 
+
+01.05.2024 12:55:45: Method Name: LinkMatrices
+01.05.2024 12:55:45:   Parameters:
+01.05.2024 12:55:45:    - i: System.Int32
+01.05.2024 12:55:45:    - j: System.Int32
+01.05.2024 12:55:45:    - action: System.Action`1[ESContract.State]
+01.05.2024 12:55:45:   Return Type: System.Void

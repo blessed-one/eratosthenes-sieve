@@ -1,5 +1,4 @@
 ﻿using ESContract;
-using Microsoft.VisualBasic.FileIO;
 using System.Reflection;
 
 
@@ -11,18 +10,16 @@ public partial class MainPage : ContentPage
 {
     private Grid _grid;
     private Entry[,] _matrix;
-    private bool dllLoaded = false;
-    private bool gridCreated = false;
     private int _n;
     private object _field;
-    private Type[] _types;
+    private bool _isDllLoaded = false;
     private Assembly _assembly;
+    private Type[] _types;
+    private Type[] _interfaces;
+    private Dictionary<Type, Type> _typesDictionary = new();
     private string _realizationPath;
-    private Type[] _commonIterfaces = { typeof(ICell), typeof(IFilter) };
-    private Type[] _genericInterfaces = { typeof(IField<>), typeof(ISieveManager<,>) };
-    private Type[] _interfaces = { typeof(ICell), typeof(IFilter), typeof(IField<>), typeof(ISieveManager<,>) };
     private string _contractPath = @"C:\Users\1\inf-hw\eratosthenes-sieve\ReshetoMAUI\ReshetoMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ESContract.dll";
-    string _logPath = @"C:\Users\1\inf-hw\eratosthenes-sieve\ReshetoMAUI\ReshetoMAUI\log.txt";
+    private string _logPath = @"C:\Users\1\inf-hw\eratosthenes-sieve\ReshetoMAUI\ReshetoMAUI\log.txt";
 
     public MainPage()
     {
@@ -45,8 +42,7 @@ public partial class MainPage : ContentPage
                 InitializeGrid(n);
                 RemainderLabel.Text = "";
             }
-            ResultLabel.Text = "Простые числа до n:";
-            gridCreated = true;
+            ResultLabel.Text = $"Простые числа до {_n}:";
             StartButton.IsEnabled = true;
         }
         else
@@ -71,7 +67,7 @@ public partial class MainPage : ContentPage
         _matrix = new Entry[matrixSize, matrixSize];
 
         _grid = new Grid
-        { 
+        {
             ColumnSpacing = 5,
             RowSpacing = 5,
             WidthRequest = gridSize,
@@ -106,7 +102,6 @@ public partial class MainPage : ContentPage
         Layout.Add(_grid);
         Layout.SetLayoutBounds(_grid, new Rect(20, 20, AbsoluteLayout.AutoSize, AbsoluteLayout.AutoSize));
     }
-
 
     public async void OnLoadClicked(object sender, EventArgs e)
     {
@@ -149,57 +144,95 @@ public partial class MainPage : ContentPage
         bool isAllRight = true;
 
         _types = _assembly.GetTypes();
+        _interfaces = Assembly.LoadFrom(_contractPath).GetTypes().Where(type => type.IsInterface).ToArray();
 
-        foreach (var interfaceType in _interfaces)
+        /*foreach (var Interface in  _interfaces)
         {
-            if (interfaceType.IsGenericType)
+            if (Interface.IsGenericType)
             {
-                isAllRight = _types.Any(type => type.GetInterfaces().Any(face => face.IsGenericType && face.GetGenericTypeDefinition() == interfaceType));
+                Logg(Interface.GetGenericTypeDefinition().ToString());
             }
-
             else
             {
-                isAllRight = _types.Any(type => type.GetInterfaces().Any(face => face == interfaceType));
+                Logg(Interface.ToString());
+            }
+        }*/
+        foreach (var interfaceType in _interfaces)
+        {
+            bool isImplemented = false;
+            foreach (var type in _types)
+            {
+                foreach (var face in type.GetInterfaces())
+                {
+                    if (face.IsGenericType && face.GetGenericTypeDefinition() == interfaceType)
+                    {
+                        isImplemented = true;
+                        _typesDictionary.Add(face.GetGenericTypeDefinition(), type);
+
+                        break;
+                    }
+                    else if(face == interfaceType)
+                    {
+                        isImplemented = true;
+                        _typesDictionary.Add(face, type);
+
+                        break;
+                    }
+                }
+                if (isImplemented) break;
+            }
+            
+            if(!isImplemented)
+            {
+                isAllRight = false;
+                Logg(interfaceType.ToString() +  "<------");
+                break;
             }
         }
 
         if (isAllRight)
         {
-            dllLoaded = true;
+            _isDllLoaded = true;
             LoadButton.IsEnabled = false;
             GridButton.IsEnabled = true;
+        }
+        else
+        {
+            await DisplayAlert("Ошибка", "Реализация не соответсвует контракту", "OK");
         }
     }
 
     public void OnStartClicked(object sender, EventArgs e)
     {
-        Type sieveManagerType = _types.First(type => type.IsGenericType 
-                                          && type.GetGenericTypeDefinition() == typeof(ISieveManager<,>));
-        var sieveManager = Activator.CreateInstance(sieveManagerType);
-        MethodInfo[] methods = typeof(ISieveManager<,>).GetMethods();
+        var managerType = _typesDictionary[typeof(ISieveManager<,>)];
 
+        MethodInfo[] methods = managerType.GetMethods();
+
+        // Создание экземпляра основного класса
+        var sieveManager = Activator.CreateInstance(managerType, new object[1] {_n});
         var linkMatrices = methods.First(method => method.Name == "LinkMatrices");
+        var findPrimes = methods.First(method => method.Name == "FindPrimes");
 
-        foreach (MethodInfo method in methods)
+        // Связывание Entry (ui) и соответсвующей ей клетки (realization)
+        for (int i = 0; i < _matrix.GetLength(0); i++)
         {
-            // Выводим информацию о методе
-            File.WriteAllText(_logPath, $"Метод: {method.Name}\n");
-            File.WriteAllText(_logPath, $"Возвращаемый тип: {method.ReturnType}\n");
-
-            // Получаем параметры метода
-            ParameterInfo[] parameters = method.GetParameters();
-            File.WriteAllText(_logPath, "Параметры:\n");
-
-            // Выводим информацию о параметрах метода
-            foreach (ParameterInfo parameter in parameters)
+            for (int j = 0; j < _matrix.GetLength(0); j++)
             {
-                File.WriteAllText(_logPath, $"Тип: {parameter.ParameterType}, Имя: {parameter.Name}\n");
+                Action<ESContract.State> action = _matrix[i, j].ChangeColourByState;
+                linkMatrices.Invoke(sieveManager, new object[3] { i, j, action });
             }
-
-            File.WriteAllText(_logPath, "\n");
         }
 
+        // Поиск простых чисел
+        int[] primes = (int[])findPrimes.Invoke(sieveManager, parameters: null)!;
+
+        ResultLabel.Text += string.Join(", ", primes);
 
         StartButton.IsEnabled = false;
+    }
+
+    public void Logg(string message)
+    {
+        File.AppendAllText(_logPath, $"{DateTime.Now}: {message}\n");
     }
 }
