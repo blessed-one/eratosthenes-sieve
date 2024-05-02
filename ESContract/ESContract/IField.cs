@@ -1,6 +1,4 @@
-﻿using System.Drawing;
-
-namespace ESContract;
+﻿namespace ESContract;
 
 public interface IField<T> where T : ICell
 {
