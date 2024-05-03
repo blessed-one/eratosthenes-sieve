@@ -3,7 +3,7 @@
 
 public class Cell : ICell
 {
-    public event Action<State>? StateUpdateNotification;
+    public event Func<State, Task>? StateUpdateNotification;
 
     public void UpdateState(State state)
     {

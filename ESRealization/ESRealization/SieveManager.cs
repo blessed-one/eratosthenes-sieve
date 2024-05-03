@@ -1,5 +1,4 @@
 ﻿using ESContract;
-using System.Diagnostics;
 
 
 public class SieveManager : ISieveManager<Field, Cell>
@@ -70,8 +69,8 @@ public class SieveManager : ISieveManager<Field, Cell>
         return result.ToArray();
     }
 
-    public void LinkMatrices(int i, int j, Action<State> action)
+    public void LinkMatrices(int i, int j, Func<State, Task> func)
     {
-        Field.CellField[i, j].StateUpdateNotification += action;
+        Field.CellField[i, j].StateUpdateNotification += func;
     }
 }

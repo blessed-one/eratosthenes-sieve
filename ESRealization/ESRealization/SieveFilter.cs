@@ -41,9 +41,9 @@ public class SieveFilter : IFilter
                 }
                 else if (number % MainNumber != 0)
                 {
-                    GiveNextOneNum(number);
-
                     cell.UpdateState(State.Good);
+
+                    GiveNextOneNum(number);
                 }
                 else
                 {
