@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using ESContract;
+﻿using ESContract;
 
 namespace ReshetoMAUI
 {
     public static class MauiExtension
     {
-        public static void ChangeColourByState(this Entry entry, State state)
+        public static async Task ChangeColourByState(this Entry entry, State state)
         {
             Color colour = state switch
             {
@@ -18,8 +13,11 @@ namespace ReshetoMAUI
                 State.Bad => new Color(255, 0, 0),
                 _ => new Color(100, 100, 100),
             };
-
-            MainThread.BeginInvokeOnMainThread(() => entry.BackgroundColor = colour);
+            
+            await Task.Run(() =>
+            {
+                Application.Current?.Dispatcher.DispatchAsync(() => entry.BackgroundColor = colour);
+            });
         }
     }
 }

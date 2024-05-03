@@ -1,4 +1,5 @@
 ﻿using ESContract;
+using System.Diagnostics;
 using System.Reflection;
 
 
@@ -11,8 +12,7 @@ public partial class MainPage : ContentPage
     private Grid _grid;
     private Entry[,] _matrix;
     private int _n;
-    private object _field;
-    private bool _isDllLoaded = false;
+    private bool isGridCreated = false;
     private Assembly _assembly;
     private Type[] _types;
     private Type[] _interfaces;
@@ -35,14 +35,16 @@ public partial class MainPage : ContentPage
             if (n > 1024)
             {
                 RemainderLabel.Text = "Слишком большое n,\nвизуализации не будет";
+                isGridCreated = false;
                 Layout.Children.Remove(_grid);
             }
             else
             {
                 InitializeGrid(n);
+                isGridCreated = true;
                 RemainderLabel.Text = "";
             }
-            ResultLabel.Text = $"Простые числа до {_n}:";
+            ResultLabel.Text = $"Простые числа до {_n}: ";
             StartButton.IsEnabled = true;
         }
         else
@@ -146,17 +148,6 @@ public partial class MainPage : ContentPage
         _types = _assembly.GetTypes();
         _interfaces = Assembly.LoadFrom(_contractPath).GetTypes().Where(type => type.IsInterface).ToArray();
 
-        /*foreach (var Interface in  _interfaces)
-        {
-            if (Interface.IsGenericType)
-            {
-                Logg(Interface.GetGenericTypeDefinition().ToString());
-            }
-            else
-            {
-                Logg(Interface.ToString());
-            }
-        }*/
         foreach (var interfaceType in _interfaces)
         {
             bool isImplemented = false;
@@ -192,7 +183,6 @@ public partial class MainPage : ContentPage
 
         if (isAllRight)
         {
-            _isDllLoaded = true;
             LoadButton.IsEnabled = false;
             GridButton.IsEnabled = true;
         }
@@ -214,14 +204,18 @@ public partial class MainPage : ContentPage
         var findPrimes = methods.First(method => method.Name == "FindPrimes");
 
         // Связывание Entry (ui) и соответсвующей ей клетки (realization)
-        for (int i = 0; i < _matrix.GetLength(0); i++)
+        if (isGridCreated)
         {
-            for (int j = 0; j < _matrix.GetLength(0); j++)
+            for (int i = 0; i < _matrix.GetLength(0); i++)
             {
-                Action<ESContract.State> action = _matrix[i, j].ChangeColourByState;
-                linkMatrices.Invoke(sieveManager, new object[3] { i, j, action });
+                for (int j = 0; j < _matrix.GetLength(0); j++)
+                {
+                    Func<ESContract.State, Task> func = _matrix[i, j].ChangeColourByState;
+                    linkMatrices.Invoke(sieveManager, new object[3] { i, j, func });
+                }
             }
         }
+        
 
         // Поиск простых чисел
         int[] primes = (int[])findPrimes.Invoke(sieveManager, parameters: null)!;
@@ -231,6 +225,7 @@ public partial class MainPage : ContentPage
         StartButton.IsEnabled = false;
     }
 
+    
     public void Logg(string message)
     {
         File.AppendAllText(_logPath, $"{DateTime.Now}: {message}\n");

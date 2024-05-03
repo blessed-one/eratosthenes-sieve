@@ -36,14 +36,15 @@
                    x:Name="RemainderLabel"
                    TextColor="Red">
             </Label>
-            <Label AbsoluteLayout.LayoutBounds="740, 300"
+            <Editor AbsoluteLayout.LayoutBounds="740, 300"
                    x:Name="ResultLabel"
                    BackgroundColor="White"
                    TextColor="Black"
-                   Text="Простые числа до n:"
-                   WidthRequest="300"
-                   HeightRequest="150">
-            </Label>
+                   Text="Простые числа до n: "
+                   WidthRequest="600"
+                   HeightRequest="300"
+                   IsReadOnly ="True">
+            </Editor>
         </AbsoluteLayout>
     </ScrollView>
 
