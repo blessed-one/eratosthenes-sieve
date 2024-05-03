@@ -5,7 +5,7 @@ public interface IFilter
     /// <summary>
     /// Обработка чисел из NumbersQueue
     /// </summary>
-    public Task OperateAsync();
+    public void Operate();
 
     /// <summary>
     /// Передача следующему фильтру одно значение

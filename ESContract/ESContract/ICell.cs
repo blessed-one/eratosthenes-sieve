@@ -5,7 +5,7 @@ public interface ICell
     /// <summary>
     /// Событие - обновление состояния клетки
     /// </summary>
-    public event Action<State>? StateUpdateNotification;
+    public event Func<State, Task>? StateUpdateNotification;
     /// <summary>
     /// Изменяет состояние клетки и оповещает подписчиков об этом изменении.
     /// </summary>
