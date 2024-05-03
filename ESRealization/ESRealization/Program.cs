@@ -2,7 +2,7 @@
 {
     public static void Main(string[] args)
     {
-        var sieveManager = new SieveManager(10);
+        var sieveManager = new SieveManager(1000);
         var primes = sieveManager.FindPrimes();
         primes.Print();
     }
