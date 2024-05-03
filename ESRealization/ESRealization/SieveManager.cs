@@ -1,4 +1,5 @@
 ﻿using ESContract;
+using System.Security.Principal;
 
 
 public class SieveManager : ISieveManager<Field, Cell>
@@ -13,10 +14,11 @@ public class SieveManager : ISieveManager<Field, Cell>
     }
     public int[] FindPrimes()
     {
-        if (NumbersCount == 0)
+        if (NumbersCount == 0 || NumbersCount == 1)
         {
             return new int[0];
         }
+        
 
         // Поиск базиса простых чисел
         List<int> primeBasis = new();
@@ -64,6 +66,7 @@ public class SieveManager : ISieveManager<Field, Cell>
             result.AddRange(filter.GetNumbers());
         }
         result.Remove(-1);
+        result.Remove(0);
         result.Sort();
 
         return result.ToArray();
