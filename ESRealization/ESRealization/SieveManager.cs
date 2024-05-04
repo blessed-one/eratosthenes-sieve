@@ -72,8 +72,8 @@ public class SieveManager : ISieveManager<Field, Cell>
         return result.ToArray();
     }
 
-    public void LinkMatrices(int i, int j, Func<State, Task> func)
+    public void LinkMatrices(int i, int j, Action<State> action)
     {
-        Field.CellField[i, j].StateUpdateNotification += func;
+        Field.CellField[i, j].StateUpdateNotification += action;
     }
 }

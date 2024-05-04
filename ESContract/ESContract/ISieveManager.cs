@@ -18,6 +18,6 @@ public interface ISieveManager<T, V> where T : IField<V>
     /// <param name="i">Индекс ячейки</param>
     /// <param name="j">Индекс ячейки</param>
     /// <param name="action">Реакция на обновление состояния ячейки</param>
-    public void LinkMatrices(int i, int j, Func<State, Task> func);
+    public void LinkMatrices(int i, int j, Action<State> action);
 }
 

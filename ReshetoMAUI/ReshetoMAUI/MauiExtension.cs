@@ -4,7 +4,7 @@ namespace ReshetoMAUI
 {
     public static class MauiExtension
     {
-        public static async Task ChangeColourByState(this Entry entry, State state)
+        public static void ChangeColourByState(this Entry entry, State state)
         {
             Color colour = state switch
             {
@@ -13,11 +13,10 @@ namespace ReshetoMAUI
                 State.Bad => new Color(255, 0, 0),
                 _ => new Color(100, 100, 100),
             };
-            
-            await Task.Run(() =>
-            {
+
+
+            if (entry.BackgroundColor != new Color(255, 0, 0))
                 Application.Current?.Dispatcher.DispatchAsync(() => entry.BackgroundColor = colour);
-            });
         }
     }
 }

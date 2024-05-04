@@ -210,8 +210,8 @@ public partial class MainPage : ContentPage
             {
                 for (int j = 0; j < _matrix.GetLength(0); j++)
                 {
-                    Func<ESContract.State, Task> func = _matrix[i, j].ChangeColourByState;
-                    linkMatrices.Invoke(sieveManager, new object[3] { i, j, func });
+                    Action<ESContract.State> action = _matrix[i, j].ChangeColourByState;
+                    linkMatrices.Invoke(sieveManager, new object[3] { i, j, action });
                 }
             }
         }
