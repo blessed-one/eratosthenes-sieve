@@ -194,14 +194,15 @@ public partial class MainPage : ContentPage
 
     public void OnStartClicked(object sender, EventArgs e)
     {
-        var managerType = _typesDictionary[typeof(ISieveManager<,>)];
+        var managerType = _typesDictionary[typeof(ISieveManager<>)];
 
         MethodInfo[] methods = managerType.GetMethods();
 
         // Создание экземпляра основного класса
         var sieveManager = Activator.CreateInstance(managerType, new object[1] {_n});
-        var linkMatrices = methods.First(method => method.Name == "LinkMatrices");
         var findPrimes = methods.First(method => method.Name == "FindPrimes");
+        var getCell = typeof(ISieveManager<>).GetMethods().First(method => method.Name == "GetCellByIndex");
+
 
         // Связывание Entry (ui) и соответсвующей ей клетки (realization)
         if (isGridCreated)
@@ -210,8 +211,22 @@ public partial class MainPage : ContentPage
             {
                 for (int j = 0; j < _matrix.GetLength(0); j++)
                 {
-                    Func<ESContract.State, Task> func = _matrix[i, j].ChangeColourByState;
-                    linkMatrices.Invoke(sieveManager, new object[3] { i, j, func });
+                    DataTrigger goodTrigger = new DataTrigger(typeof(ESContract.Cell))
+                    {
+                        Binding = new Binding { Source = getCell.Invoke(sieveManager, parameters: null), Path = nameof(ESContract.Cell) },
+                        Value = State.Good,
+                    };
+                    goodTrigger.Setters.Add(new Setter { Property = Entry.BackgroundColorProperty, Value = new Color(0, 255, 0) });
+
+                    DataTrigger badTrigger = new DataTrigger(typeof(ESContract.Cell))
+                    {
+                        Binding = new Binding { Source = getCell.Invoke(sieveManager, parameters: null), Path = nameof(ESContract.Cell) },
+                        Value = State.Bad,
+                    };
+                    goodTrigger.Setters.Add(new Setter { Property = Entry.BackgroundColorProperty, Value = new Color(255, 0, 0) });
+
+                    _matrix[i, j].Triggers.Add(goodTrigger);
+                    _matrix[i, j].Triggers.Add(badTrigger);
                 }
             }
         }

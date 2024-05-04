@@ -1,6 +1,6 @@
 ﻿namespace ESContract;
 
-public interface IField<T> where T : ICell
+public interface IField
 {
     /// <summary>
     /// Размер поля
@@ -13,12 +13,12 @@ public interface IField<T> where T : ICell
     /// <summary>
     /// Матрица, хранящая клетки
     /// </summary>
-    public T[,] CellField { get; init; }
+    public Cell[,] CellField { get; init; }
 
     /// <summary>
     /// Возвращает клетку с данным номером
     /// </summary>
     /// <param name="cellNumber">Номер искомой клетки</param>
     /// <returns>Искомая клетка</returns>
-    public T GetCell(int cellNumber);
+    public Cell GetCell(int cellNumber);
 }

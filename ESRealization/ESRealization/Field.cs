@@ -1,7 +1,7 @@
 ﻿using ESContract;
 
 
-public class Field : IField<Cell>
+public class Field : IField
 {
     public int Size { get; init; }
     public int CellsCount { get; init; }

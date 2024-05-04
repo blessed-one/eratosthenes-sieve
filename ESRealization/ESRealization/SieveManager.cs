@@ -2,7 +2,7 @@
 using System.Security.Principal;
 
 
-public class SieveManager : ISieveManager<Field, Cell>
+public class SieveManager : ISieveManager<Field>
 {
     public Field Field { get; set; }
     public int NumbersCount {  get; set; }
@@ -70,10 +70,5 @@ public class SieveManager : ISieveManager<Field, Cell>
         result.Sort();
 
         return result.ToArray();
-    }
-
-    public void LinkMatrices(int i, int j, Func<State, Task> func)
-    {
-        Field.CellField[i, j].StateUpdateNotification += func;
     }
 }

@@ -1,7 +1,9 @@
-﻿namespace ESContract;
+﻿using System.Reflection.Metadata.Ecma335;
 
-public interface ISieveManager<T, V> where T : IField<V>
-                                     where V : ICell
+namespace ESContract;
+
+public interface ISieveManager<T> where T : IField
+                                     
 {
     public T Field { get; set; }
     public int NumbersCount { get; set; }
@@ -12,12 +14,6 @@ public interface ISieveManager<T, V> where T : IField<V>
     /// <returns>Массив простых чисел</returns>
     public int[] FindPrimes();
 
-    /// <summary>
-    /// Подписывает делегат на обновление ячейки (i, j)
-    /// </summary>
-    /// <param name="i">Индекс ячейки</param>
-    /// <param name="j">Индекс ячейки</param>
-    /// <param name="action">Реакция на обновление состояния ячейки</param>
-    public void LinkMatrices(int i, int j, Func<State, Task> func);
+    public Cell GetCellByIndex(int i, int j) => Field.CellField[i, j];
 }
 
