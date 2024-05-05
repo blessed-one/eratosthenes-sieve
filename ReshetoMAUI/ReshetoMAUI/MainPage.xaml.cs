@@ -29,7 +29,7 @@ public partial class MainPage : ContentPage
     public void OnGridClicked(object sender, EventArgs e)
     {
         string text = NEntry.Text;
-        if (int.TryParse(text, out int n))
+        if (int.TryParse(text, out int n) && n != 0)
         {
             _n = n;
             if (n > 1024)
@@ -93,7 +93,8 @@ public partial class MainPage : ContentPage
                     IsReadOnly = true,
                     HorizontalTextAlignment = TextAlignment.Center,
                     VerticalTextAlignment = TextAlignment.Center,
-                    FontSize = 30 * (5 / (float)matrixSize)
+                    FontSize = 30 * (5 / (float)matrixSize),
+                    BackgroundColor = Colors.White,
                 };
                 _grid.Add(ent, j, i);
                 _matrix[i, j] = ent;
@@ -192,40 +193,56 @@ public partial class MainPage : ContentPage
         }
     }
 
-    public void OnStartClicked(object sender, EventArgs e)
+    public async void OnStartClicked(object sender, EventArgs e)
     {
-        var managerType = _typesDictionary[typeof(ISieveManager<,>)];
+        var managerType = _typesDictionary[typeof(ISieveManager)];
 
         MethodInfo[] methods = managerType.GetMethods();
 
         // Создание экземпляра основного класса
-        var sieveManager = Activator.CreateInstance(managerType, new object[1] {_n});
-        var linkMatrices = methods.First(method => method.Name == "LinkMatrices");
+        var sieveManager = Activator.CreateInstance(managerType);
         var findPrimes = methods.First(method => method.Name == "FindPrimes");
-
-        // Связывание Entry (ui) и соответсвующей ей клетки (realization)
-        if (isGridCreated)
-        {
-            for (int i = 0; i < _matrix.GetLength(0); i++)
-            {
-                for (int j = 0; j < _matrix.GetLength(0); j++)
-                {
-                    Action<ESContract.State> action = _matrix[i, j].ChangeColourByState;
-                    linkMatrices.Invoke(sieveManager, new object[3] { i, j, action });
-                }
-            }
-        }
-        
+        var getSteps = methods.First(method => method.Name == "GetSteps");
 
         // Поиск простых чисел
-        int[] primes = (int[])findPrimes.Invoke(sieveManager, parameters: null)!;
+        //int[] primes = await Task<int[]>.Run(() => (int[])findPrimes.Invoke(sieveManager, parameters: new object[1] { _n })!);
+        int[] primes = (int[])findPrimes.Invoke(sieveManager, parameters: new object[1] { _n })!;
 
+        // Визуализация поиска
+        if (isGridCreated)
+        {
+            (int Number, ESContract.State State)[] steps = ((int, ESContract.State)[])getSteps.Invoke(sieveManager, parameters: null)!;
+
+            int matrixSize = _matrix.GetLength(0);
+            foreach (var step in steps)
+            {
+                int n = step.Number - 1;
+
+                int y = n % matrixSize;
+                int x = n / matrixSize;
+
+                Color colour = step.State switch
+                {
+                    State.Good => new Color(0, 255, 0),
+                    State.Bad => new Color(255, 0, 0),
+                    _ => new Color(100, 100, 100),
+                };
+
+                await Task.Run(() =>
+                {
+                    Dispatcher.DispatchAsync(() => _matrix[x, y].BackgroundColor = colour);
+                });
+                //_matrix[x, y].BackgroundColor = colour;
+            }
+        }
+
+
+        // Вывод ответа
         ResultLabel.Text += string.Join(", ", primes);
 
         StartButton.IsEnabled = false;
     }
 
-    
     public void Logg(string message)
     {
         File.AppendAllText(_logPath, $"{DateTime.Now}: {message}\n");
