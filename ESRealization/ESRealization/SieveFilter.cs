@@ -4,18 +4,17 @@ using System.Collections.Concurrent;
 
 public class SieveFilter : IFilter
 {
-    private readonly Field _field;
+    public SieveManager Manager { get; private set; }
     public SieveFilter NextFilter { get; set; }
     public int MainNumber { get; set; }
     public bool IsDone { get; set; }
     public ConcurrentQueue<int> NumbersQueue { get; set; }
 
-    public SieveFilter(Field field)
+    public SieveFilter(SieveManager manager)
     {
-        _field = field;
-        IsDone = false;
         NumbersQueue = new ConcurrentQueue<int>();
         NextFilter = this;
+        Manager = manager;
     }
 
     public void Operate()
@@ -31,23 +30,21 @@ public class SieveFilter : IFilter
                     break;
                 }
 
-                var cell = _field.GetCell(number);
-
                 if (MainNumber == 0)
                 {
                     MainNumber = number;
 
-                    cell.UpdateState(State.Good);
+                    Manager.StepsQueue.Enqueue((number, State.Good));
                 }
                 else if (number % MainNumber != 0)
                 {
-                    cell.UpdateState(State.Good);
+                    Manager.StepsQueue.Enqueue((number, State.Good));
 
                     GiveNextOneNum(number);
                 }
                 else
                 {
-                    cell.UpdateState(State.Bad);
+                    Manager.StepsQueue.Enqueue((number, State.Bad));
                 }
             }
         }

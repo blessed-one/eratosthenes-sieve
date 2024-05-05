@@ -1,28 +1,24 @@
 ﻿using ESContract;
+using System.Collections.Concurrent;
 using System.Security.Principal;
 
 
-public class SieveManager : ISieveManager<Field, Cell>
+public class SieveManager : ISieveManager
 {
-    public Field Field { get; set; }
-    public int NumbersCount {  get; set; }
+    public ConcurrentQueue<(int, State)> StepsQueue { get; set; }
+    public int[] FindPrimes(int n)
+    {
+        StepsQueue = new ConcurrentQueue<(int, State)>();
 
-    public SieveManager(int n)
-    {
-        NumbersCount = n;
-        Field = new Field(n);
-    }
-    public int[] FindPrimes()
-    {
-        if (NumbersCount == 0 || NumbersCount == 1)
+        if (n == 0 || n == 1)
         {
+            StepsQueue.Enqueue((1, State.Bad));
             return new int[0];
         }
-        
 
         // Поиск базиса простых чисел
         List<int> primeBasis = new();
-        for (int i = 2; i <= (int)Math.Pow(NumbersCount, 0.5); i++)
+        for (int i = 2; i <= (int)Math.Pow(n, 0.5); i++)
         {
             bool isPrime = true;
 
@@ -30,7 +26,7 @@ public class SieveManager : ISieveManager<Field, Cell>
             {
                 if (i % devisor == 0)
                 {
-                    isPrime = false; 
+                    isPrime = false;
                     break;
                 }
             }
@@ -40,17 +36,17 @@ public class SieveManager : ISieveManager<Field, Cell>
         int basisCount = primeBasis.Count;
 
         // Создание фильтров под каждое число базиса и связь фильтров в цепочку
-        List<SieveFilter> filters = new() { new SieveFilter(Field) };
+        List<SieveFilter> filters = new() { new SieveFilter(this) };
         for (int i = 1; i < basisCount; i++)
         {
-            var filter = new SieveFilter(Field);
+            var filter = new SieveFilter(this);
             filters.Add(filter);
             filters[i - 1].NextFilter = filter;
         }
         filters[^1].NextFilter = filters[0];
 
         // Добавление n чисел и -1 в самый первый фильтр
-        for (int i = 2; i <= NumbersCount; i++)
+        for (int i = 2; i <= n; i++)
         {
             filters[0].NumbersQueue.Enqueue(i);
         }
@@ -72,8 +68,12 @@ public class SieveManager : ISieveManager<Field, Cell>
         return result.ToArray();
     }
 
-    public void LinkMatrices(int i, int j, Action<State> action)
+    public (int Number, State State)[] GetSteps()
     {
-        Field.CellField[i, j].StateUpdateNotification += action;
+        if (StepsQueue != null)
+        {
+            return StepsQueue.ToArray();
+        }
+        else throw new InvalidOperationException("Поиск ещё не был произведён");
     }
 }
