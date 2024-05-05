@@ -1,23 +1,17 @@
 ﻿namespace ESContract;
 
-public interface ISieveManager<T, V> where T : IField<V>
-                                     where V : ICell
+public interface ISieveManager
 {
-    public T Field { get; set; }
-    public int NumbersCount { get; set; }
-
     /// <summary>
     /// Использует алгоритм "Решето Эратосфена"
     /// </summary>
     /// <returns>Массив простых чисел</returns>
-    public int[] FindPrimes();
+    public int[] FindPrimes(int n);
 
     /// <summary>
-    /// Подписывает делегат на обновление ячейки (i, j)
+    /// Возвращает очерёдность изменений состояний State чисел 
     /// </summary>
-    /// <param name="i">Индекс ячейки</param>
-    /// <param name="j">Индекс ячейки</param>
-    /// <param name="action">Реакция на обновление состояния ячейки</param>
-    public void LinkMatrices(int i, int j, Action<State> action);
+    /// <returns>Массив пар (число, состояние)</returns>
+    public (int Number, State State)[] GetSteps();
 }
 
