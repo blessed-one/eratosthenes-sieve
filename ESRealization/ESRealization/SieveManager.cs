@@ -9,10 +9,11 @@ public class SieveManager : ISieveManager
     public int[] FindPrimes(int n)
     {
         StepsQueue = new ConcurrentQueue<(int, State)>();
+        StepsQueue.Enqueue((1, State.Bad));
+
 
         if (n == 0 || n == 1)
         {
-            StepsQueue.Enqueue((1, State.Bad));
             return new int[0];
         }
 
@@ -52,8 +53,9 @@ public class SieveManager : ISieveManager
         }
         filters[0].NumbersQueue.Enqueue(-1);
 
+
         // Параллель
-        Parallel.For(0, basisCount, (n) => filters[n].Operate());
+        Parallel.For(0, basisCount == 0 ? 1 : basisCount, (i) => filters[i].Operate());
 
         // Сбор чисел в массив - результат
         List<int> result = new();
