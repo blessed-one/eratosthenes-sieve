@@ -15,6 +15,11 @@
             <Entry AbsoluteLayout.LayoutBounds="825, 150"
                    x:Name="NEntry">
             </Entry>
+            <Button AbsoluteLayout.LayoutBounds="740, 50"
+                    x:Name="ThemeButton"
+                    Text="Сменить тему"
+                    Clicked="OnThemeClicked">
+            </Button>
             <Button AbsoluteLayout.LayoutBounds="740, 210"
                     x:Name="GridButton"
                     Text="Матрица"
@@ -29,7 +34,7 @@
             </Button>
             <Button AbsoluteLayout.LayoutBounds="940, 210"
                     x:Name="LoadButton"
-                    Text="Загрузыть сборку"
+                    Text="Загрузить сборку"
                     Clicked="OnLoadClicked">
             </Button>
             <Label AbsoluteLayout.LayoutBounds="900, 160"

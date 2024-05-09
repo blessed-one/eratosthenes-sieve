@@ -1,5 +1,4 @@
 ﻿using ESContract;
-using System.Diagnostics;
 using System.Reflection;
 
 
@@ -19,7 +18,12 @@ public partial class MainPage : ContentPage
     private Dictionary<Type, Type> _typesDictionary = new();
     private string _realizationPath;
     private string _contractPath = @"C:\Users\1\inf-hw\eratosthenes-sieve\ReshetoMAUI\ReshetoMAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ESContract.dll";
-    private string _logPath = @"C:\Users\1\inf-hw\eratosthenes-sieve\ReshetoMAUI\ReshetoMAUI\log.txt";
+    private int _themeIndex = 0;
+    private string[] _themes = {
+        nameof(ReshetoMAUI.Resources.Themes.Default),
+        nameof(ReshetoMAUI.Resources.Themes.Nature),
+        nameof(ReshetoMAUI.Resources.Themes.Fire)
+    };
 
     public MainPage()
     {
@@ -76,11 +80,6 @@ public partial class MainPage : ContentPage
             HeightRequest = gridSize,
         };
 
-        for (int i = 0; i < matrixSize; i++)
-        {
-            _grid.RowDefinitions.Add(new RowDefinition());
-            _grid.ColumnDefinitions.Add(new ColumnDefinition());
-        }
 
         int counter = 1;
         for (int i = 0; i < matrixSize; i++)
@@ -94,8 +93,8 @@ public partial class MainPage : ContentPage
                     HorizontalTextAlignment = TextAlignment.Center,
                     VerticalTextAlignment = TextAlignment.Center,
                     FontSize = 30 * (5 / (float)matrixSize),
-                    BackgroundColor = Colors.White,
                 };
+                ent.SetDynamicResource(Entry.BackgroundColorProperty, "Unknown");
                 _grid.Add(ent, j, i);
                 _matrix[i, j] = ent;
                 counter++;
@@ -149,7 +148,24 @@ public partial class MainPage : ContentPage
         _types = _assembly.GetTypes();
         _interfaces = Assembly.LoadFrom(_contractPath).GetTypes().Where(type => type.IsInterface).ToArray();
 
-        foreach (var interfaceType in _interfaces)
+        bool isAllright = _interfaces.All(face =>
+        {
+            bool isImplemented = false;
+
+            foreach (var type in _types)
+            {
+                if (type.GetInterfaces().Contains(face))
+                {
+                    _typesDictionary[face] = type;
+                    isImplemented = true;
+                    break;
+                }
+            }
+
+            return isImplemented;
+        });
+
+        /*foreach (var interfaceType in _interfaces)
         {
             bool isImplemented = false;
             foreach (var type in _types)
@@ -163,7 +179,7 @@ public partial class MainPage : ContentPage
 
                         break;
                     }
-                    else if(face == interfaceType)
+                    else if (face == interfaceType)
                     {
                         isImplemented = true;
                         _typesDictionary.Add(face, type);
@@ -173,14 +189,13 @@ public partial class MainPage : ContentPage
                 }
                 if (isImplemented) break;
             }
-            
-            if(!isImplemented)
+
+            if (!isImplemented)
             {
                 isAllRight = false;
-                Logg(interfaceType.ToString() +  "<------");
                 break;
             }
-        }
+        }*/
 
         if (isAllRight)
         {
@@ -205,8 +220,8 @@ public partial class MainPage : ContentPage
         var getSteps = methods.First(method => method.Name == "GetSteps");
 
         // Поиск простых чисел
-        //int[] primes = await Task<int[]>.Run(() => (int[])findPrimes.Invoke(sieveManager, parameters: new object[1] { _n })!);
-        int[] primes = (int[])findPrimes.Invoke(sieveManager, parameters: new object[1] { _n })!;
+        int[] primes = await Task<int[]>.Run(() => (int[])findPrimes.Invoke(sieveManager, parameters: new object[1] { _n })!);
+        //int[] primes = (int[])findPrimes.Invoke(sieveManager, parameters: new object[1] { _n })!;
 
         // Визуализация поиска
         if (isGridCreated)
@@ -221,21 +236,13 @@ public partial class MainPage : ContentPage
                 int y = n % matrixSize;
                 int x = n / matrixSize;
 
-                Color colour = step.State switch
-                {
-                    State.Good => new Color(0, 255, 0),
-                    State.Bad => new Color(255, 0, 0),
-                    _ => new Color(100, 100, 100),
-                };
-
                 await Task.Run(() =>
                 {
-                    Dispatcher.DispatchAsync(() => _matrix[x, y].BackgroundColor = colour);
+                    Dispatcher.DispatchAsync(() => _matrix[x, y]
+                        .SetDynamicResource(Entry.BackgroundColorProperty, step.State.ToString()));
                 });
-                //_matrix[x, y].BackgroundColor = colour;
             }
         }
-
 
         // Вывод ответа
         ResultLabel.Text += string.Join(", ", primes);
@@ -243,8 +250,12 @@ public partial class MainPage : ContentPage
         StartButton.IsEnabled = false;
     }
 
-    public void Logg(string message)
+    public async void OnThemeClicked(object sender, EventArgs e)
     {
-        File.AppendAllText(_logPath, $"{DateTime.Now}: {message}\n");
+        _themeIndex++;
+        await Dispatcher.DispatchAsync(async () =>
+        {
+            await ThemeManager.SetTheme(_themes[_themeIndex % _themes.Length]);
+        });
     }
 }
