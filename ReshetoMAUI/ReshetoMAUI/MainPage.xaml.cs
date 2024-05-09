@@ -165,38 +165,6 @@ public partial class MainPage : ContentPage
             return isImplemented;
         });
 
-        /*foreach (var interfaceType in _interfaces)
-        {
-            bool isImplemented = false;
-            foreach (var type in _types)
-            {
-                foreach (var face in type.GetInterfaces())
-                {
-                    if (face.IsGenericType && face.GetGenericTypeDefinition() == interfaceType)
-                    {
-                        isImplemented = true;
-                        _typesDictionary.Add(face.GetGenericTypeDefinition(), type);
-
-                        break;
-                    }
-                    else if (face == interfaceType)
-                    {
-                        isImplemented = true;
-                        _typesDictionary.Add(face, type);
-
-                        break;
-                    }
-                }
-                if (isImplemented) break;
-            }
-
-            if (!isImplemented)
-            {
-                isAllRight = false;
-                break;
-            }
-        }*/
-
         if (isAllRight)
         {
             LoadButton.IsEnabled = false;
