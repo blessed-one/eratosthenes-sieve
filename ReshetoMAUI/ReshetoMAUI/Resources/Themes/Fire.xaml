@@ -3,13 +3,14 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ReshetoMAUI.Resources.Themes.Fire">
 
-    <Color x:Key="Good">#e25822</Color>
-    <Color x:Key="Bad">#3d2856</Color>
-    <Color x:Key="Unknown">DarkRed</Color>
+    <Color x:Key="Background">#f29955</Color>
+    <Color x:Key="Button">#e25822</Color>
+    <Color x:Key="LabelBack">#ffffff</Color>
+    <Color x:Key="LabelText">#3d2856</Color>
 
-    <SolidColorBrush x:Key="GoodBrush" Color="{StaticResource Good}"/>
-    <SolidColorBrush x:Key="BadBrush" Color="{StaticResource Bad}"/>
-    <SolidColorBrush x:Key="UnknownBrush" Color="{StaticResource Unknown}"/>
-
+    <SolidColorBrush x:Key="BackgroundBrush" Color="{StaticResource Background}"/>
+    <SolidColorBrush x:Key="ButtonBrush" Color="{StaticResource Button}"/>
+    <SolidColorBrush x:Key="LabelBackBrush" Color="{StaticResource LabelBack}"/>
+    <SolidColorBrush x:Key="LabelTextBrush" Color="{StaticResource LabelText}"/>
 
 </ResourceDictionary>

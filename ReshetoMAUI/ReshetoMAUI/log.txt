@@ -1,0 +1,3072 @@
+﻿entry #1 created by 00:00:00.0002337 ms
+entry #1 addet to grid by 00:00:00.0007224 ms
+
+entry #2 created by 00:00:00.0001545 ms
+entry #2 addet to grid by 00:00:00.0000853 ms
+
+entry #3 created by 00:00:00.0000961 ms
+entry #3 addet to grid by 00:00:00.0000526 ms
+
+entry #4 created by 00:00:00.0000790 ms
+entry #4 addet to grid by 00:00:00.0000512 ms
+
+entry #5 created by 00:00:00.0000734 ms
+entry #5 addet to grid by 00:00:00.0000673 ms
+
+entry #6 created by 00:00:00.0001110 ms
+entry #6 addet to grid by 00:00:00.0000790 ms
+
+entry #7 created by 00:00:00.0001283 ms
+entry #7 addet to grid by 00:00:00.0000724 ms
+
+entry #8 created by 00:00:00.0001201 ms
+entry #8 addet to grid by 00:00:00.0000691 ms
+
+entry #9 created by 00:00:00.0001081 ms
+entry #9 addet to grid by 00:00:00.0000640 ms
+
+entry #10 created by 00:00:00.0001321 ms
+entry #10 addet to grid by 00:00:00.0000468 ms
+
+entry #11 created by 00:00:00.0000736 ms
+entry #11 addet to grid by 00:00:00.0000374 ms
+
+entry #12 created by 00:00:00.0000680 ms
+entry #12 addet to grid by 00:00:00.0000645 ms
+
+entry #13 created by 00:00:00.0001214 ms
+entry #13 addet to grid by 00:00:00.0000711 ms
+
+entry #14 created by 00:00:00.0001339 ms
+entry #14 addet to grid by 00:00:00.0000763 ms
+
+entry #15 created by 00:00:00.0001262 ms
+entry #15 addet to grid by 00:00:00.0000613 ms
+
+entry #16 created by 00:00:00.0003743 ms
+entry #16 addet to grid by 00:00:00.0000585 ms
+
+entry #17 created by 00:00:00.0000742 ms
+entry #17 addet to grid by 00:00:00.0000618 ms
+
+entry #18 created by 00:00:00.0000909 ms
+entry #18 addet to grid by 00:00:00.0000463 ms
+
+entry #19 created by 00:00:00.0000763 ms
+entry #19 addet to grid by 00:00:00.0000617 ms
+
+entry #20 created by 00:00:00.0001518 ms
+entry #20 addet to grid by 00:00:00.0000562 ms
+
+entry #21 created by 00:00:00.0000898 ms
+entry #21 addet to grid by 00:00:00.0000677 ms
+
+entry #22 created by 00:00:00.0001070 ms
+entry #22 addet to grid by 00:00:00.0000580 ms
+
+entry #23 created by 00:00:00.0000969 ms
+entry #23 addet to grid by 00:00:00.0000604 ms
+
+entry #24 created by 00:00:00.0001318 ms
+entry #24 addet to grid by 00:00:00.0000745 ms
+
+entry #25 created by 00:00:00.0001382 ms
+entry #25 addet to grid by 00:00:00.0000814 ms
+
+entry #26 created by 00:00:00.0001456 ms
+entry #26 addet to grid by 00:00:00.0000798 ms
+
+entry #27 created by 00:00:00.0001334 ms
+entry #27 addet to grid by 00:00:00.0000792 ms
+
+entry #28 created by 00:00:00.0001107 ms
+entry #28 addet to grid by 00:00:00.0000897 ms
+
+entry #29 created by 00:00:00.0001389 ms
+entry #29 addet to grid by 00:00:00.0000681 ms
+
+entry #30 created by 00:00:00.0001495 ms
+entry #30 addet to grid by 00:00:00.0001102 ms
+
+entry #31 created by 00:00:00.0001284 ms
+entry #31 addet to grid by 00:00:00.0000914 ms
+
+entry #32 created by 00:00:00.0001192 ms
+entry #32 addet to grid by 00:00:00.0000781 ms
+
+entry #33 created by 00:00:00.0001303 ms
+entry #33 addet to grid by 00:00:00.0004028 ms
+
+entry #34 created by 00:00:00.0001162 ms
+entry #34 addet to grid by 00:00:00.0000694 ms
+
+entry #35 created by 00:00:00.0001345 ms
+entry #35 addet to grid by 00:00:00.0000601 ms
+
+entry #36 created by 00:00:00.0000969 ms
+entry #36 addet to grid by 00:00:00.0000435 ms
+
+entry #37 created by 00:00:00.0000924 ms
+entry #37 addet to grid by 00:00:00.0000434 ms
+
+entry #38 created by 00:00:00.0000910 ms
+entry #38 addet to grid by 00:00:00.0000415 ms
+
+entry #39 created by 00:00:00.0000915 ms
+entry #39 addet to grid by 00:00:00.0000411 ms
+
+entry #40 created by 00:00:00.0000807 ms
+entry #40 addet to grid by 00:00:00.0000402 ms
+
+entry #41 created by 00:00:00.0001390 ms
+entry #41 addet to grid by 00:00:00.0000671 ms
+
+entry #42 created by 00:00:00.0001003 ms
+entry #42 addet to grid by 00:00:00.0001134 ms
+
+entry #43 created by 00:00:00.0001221 ms
+entry #43 addet to grid by 00:00:00.0000619 ms
+
+entry #44 created by 00:00:00.0001126 ms
+entry #44 addet to grid by 00:00:00.0000459 ms
+
+entry #45 created by 00:00:00.0001024 ms
+entry #45 addet to grid by 00:00:00.0000734 ms
+
+entry #46 created by 00:00:00.0001241 ms
+entry #46 addet to grid by 00:00:00.0000608 ms
+
+entry #47 created by 00:00:00.0001393 ms
+entry #47 addet to grid by 00:00:00.0000564 ms
+
+entry #48 created by 00:00:00.0001183 ms
+entry #48 addet to grid by 00:00:00.0000719 ms
+
+entry #49 created by 00:00:00.0001256 ms
+entry #49 addet to grid by 00:00:00.0000658 ms
+
+entry #50 created by 00:00:00.0000974 ms
+entry #50 addet to grid by 00:00:00.0000672 ms
+
+entry #51 created by 00:00:00.0000958 ms
+entry #51 addet to grid by 00:00:00.0000507 ms
+
+entry #52 created by 00:00:00.0001455 ms
+entry #52 addet to grid by 00:00:00.0000797 ms
+
+entry #53 created by 00:00:00.0001263 ms
+entry #53 addet to grid by 00:00:00.0000493 ms
+
+entry #54 created by 00:00:00.0001406 ms
+entry #54 addet to grid by 00:00:00.0000599 ms
+
+entry #55 created by 00:00:00.0001083 ms
+entry #55 addet to grid by 00:00:00.0000603 ms
+
+entry #56 created by 00:00:00.0000908 ms
+entry #56 addet to grid by 00:00:00.0000540 ms
+
+entry #57 created by 00:00:00.0001243 ms
+entry #57 addet to grid by 00:00:00.0000505 ms
+
+entry #58 created by 00:00:00.0000875 ms
+entry #58 addet to grid by 00:00:00.0000799 ms
+
+entry #59 created by 00:00:00.0001325 ms
+entry #59 addet to grid by 00:00:00.0000657 ms
+
+entry #60 created by 00:00:00.0001442 ms
+entry #60 addet to grid by 00:00:00.0000662 ms
+
+entry #61 created by 00:00:00.0001382 ms
+entry #61 addet to grid by 00:00:00.0000621 ms
+
+entry #62 created by 00:00:00.0001145 ms
+entry #62 addet to grid by 00:00:00.0000548 ms
+
+entry #63 created by 00:00:00.0001309 ms
+entry #63 addet to grid by 00:00:00.0000626 ms
+
+entry #64 created by 00:00:00.0001090 ms
+entry #64 addet to grid by 00:00:00.0000724 ms
+
+entry #65 created by 00:00:00.0001493 ms
+entry #65 addet to grid by 00:00:00.0000817 ms
+
+entry #66 created by 00:00:00.0001603 ms
+entry #66 addet to grid by 00:00:00.0000665 ms
+
+entry #67 created by 00:00:00.0001130 ms
+entry #67 addet to grid by 00:00:00.0000694 ms
+
+entry #68 created by 00:00:00.0000963 ms
+entry #68 addet to grid by 00:00:00.0000524 ms
+
+entry #69 created by 00:00:00.0000983 ms
+entry #69 addet to grid by 00:00:00.0000802 ms
+
+entry #70 created by 00:00:00.0001314 ms
+entry #70 addet to grid by 00:00:00.0000621 ms
+
+entry #71 created by 00:00:00.0001446 ms
+entry #71 addet to grid by 00:00:00.0000617 ms
+
+entry #72 created by 00:00:00.0000965 ms
+entry #72 addet to grid by 00:00:00.0000549 ms
+
+entry #73 created by 00:00:00.0001379 ms
+entry #73 addet to grid by 00:00:00.0000839 ms
+
+entry #74 created by 00:00:00.0001231 ms
+entry #74 addet to grid by 00:00:00.0000638 ms
+
+entry #75 created by 00:00:00.0001032 ms
+entry #75 addet to grid by 00:00:00.0000496 ms
+
+entry #76 created by 00:00:00.0001146 ms
+entry #76 addet to grid by 00:00:00.0000766 ms
+
+entry #77 created by 00:00:00.0001263 ms
+entry #77 addet to grid by 00:00:00.0000643 ms
+
+entry #78 created by 00:00:00.0001154 ms
+entry #78 addet to grid by 00:00:00.0000537 ms
+
+entry #79 created by 00:00:00.0000915 ms
+entry #79 addet to grid by 00:00:00.0000467 ms
+
+entry #80 created by 00:00:00.0001073 ms
+entry #80 addet to grid by 00:00:00.0000474 ms
+
+entry #81 created by 00:00:00.0001391 ms
+entry #81 addet to grid by 00:00:00.0000802 ms
+
+entry #82 created by 00:00:00.0001594 ms
+entry #82 addet to grid by 00:00:00.0000672 ms
+
+entry #83 created by 00:00:00.0001365 ms
+entry #83 addet to grid by 00:00:00.0000775 ms
+
+entry #84 created by 00:00:00.0001023 ms
+entry #84 addet to grid by 00:00:00.0000754 ms
+
+entry #85 created by 00:00:00.0001479 ms
+entry #85 addet to grid by 00:00:00.0000627 ms
+
+entry #86 created by 00:00:00.0001167 ms
+entry #86 addet to grid by 00:00:00.0000587 ms
+
+entry #87 created by 00:00:00.0001395 ms
+entry #87 addet to grid by 00:00:00.0000768 ms
+
+entry #88 created by 00:00:00.0001275 ms
+entry #88 addet to grid by 00:00:00.0000526 ms
+
+entry #89 created by 00:00:00.0000985 ms
+entry #89 addet to grid by 00:00:00.0000511 ms
+
+entry #90 created by 00:00:00.0000943 ms
+entry #90 addet to grid by 00:00:00.0000489 ms
+
+entry #91 created by 00:00:00.0001022 ms
+entry #91 addet to grid by 00:00:00.0000478 ms
+
+entry #92 created by 00:00:00.0000907 ms
+entry #92 addet to grid by 00:00:00.0000499 ms
+
+entry #93 created by 00:00:00.0001506 ms
+entry #93 addet to grid by 00:00:00.0000681 ms
+
+entry #94 created by 00:00:00.0001125 ms
+entry #94 addet to grid by 00:00:00.0000542 ms
+
+entry #95 created by 00:00:00.0001085 ms
+entry #95 addet to grid by 00:00:00.0000811 ms
+
+entry #96 created by 00:00:00.0001193 ms
+entry #96 addet to grid by 00:00:00.0000796 ms
+
+entry #97 created by 00:00:00.0001285 ms
+entry #97 addet to grid by 00:00:00.0000750 ms
+
+entry #98 created by 00:00:00.0001164 ms
+entry #98 addet to grid by 00:00:00.0000634 ms
+
+entry #99 created by 00:00:00.0000965 ms
+entry #99 addet to grid by 00:00:00.0000481 ms
+
+entry #100 created by 00:00:00.0000923 ms
+entry #100 addet to grid by 00:00:00.0000506 ms
+
+entry #101 created by 00:00:00.0000957 ms
+entry #101 addet to grid by 00:00:00.0000835 ms
+
+entry #102 created by 00:00:00.0001294 ms
+entry #102 addet to grid by 00:00:00.0000879 ms
+
+entry #103 created by 00:00:00.0001377 ms
+entry #103 addet to grid by 00:00:00.0000780 ms
+
+entry #104 created by 00:00:00.0001231 ms
+entry #104 addet to grid by 00:00:00.0000876 ms
+
+entry #105 created by 00:00:00.0001316 ms
+entry #105 addet to grid by 00:00:00.0000607 ms
+
+entry #106 created by 00:00:00.0001085 ms
+entry #106 addet to grid by 00:00:00.0000836 ms
+
+entry #107 created by 00:00:00.0001316 ms
+entry #107 addet to grid by 00:00:00.0000586 ms
+
+entry #108 created by 00:00:00.0001159 ms
+entry #108 addet to grid by 00:00:00.0000585 ms
+
+entry #109 created by 00:00:00.0001062 ms
+entry #109 addet to grid by 00:00:00.0000516 ms
+
+entry #110 created by 00:00:00.0000966 ms
+entry #110 addet to grid by 00:00:00.0000533 ms
+
+entry #111 created by 00:00:00.0000994 ms
+entry #111 addet to grid by 00:00:00.0000454 ms
+
+entry #112 created by 00:00:00.0001429 ms
+entry #112 addet to grid by 00:00:00.0000676 ms
+
+entry #113 created by 00:00:00.0001118 ms
+entry #113 addet to grid by 00:00:00.0000683 ms
+
+entry #114 created by 00:00:00.0001396 ms
+entry #114 addet to grid by 00:00:00.0001172 ms
+
+entry #115 created by 00:00:00.0001319 ms
+entry #115 addet to grid by 00:00:00.0000734 ms
+
+entry #116 created by 00:00:00.0001014 ms
+entry #116 addet to grid by 00:00:00.0000758 ms
+
+entry #117 created by 00:00:00.0001358 ms
+entry #117 addet to grid by 00:00:00.0000611 ms
+
+entry #118 created by 00:00:00.0000981 ms
+entry #118 addet to grid by 00:00:00.0000523 ms
+
+entry #119 created by 00:00:00.0000996 ms
+entry #119 addet to grid by 00:00:00.0000999 ms
+
+entry #120 created by 00:00:00.0001609 ms
+entry #120 addet to grid by 00:00:00.0000734 ms
+
+entry #121 created by 00:00:00.0001272 ms
+entry #121 addet to grid by 00:00:00.0000568 ms
+
+entry #122 created by 00:00:00.0000963 ms
+entry #122 addet to grid by 00:00:00.0000570 ms
+
+entry #123 created by 00:00:00.0001189 ms
+entry #123 addet to grid by 00:00:00.0000569 ms
+
+entry #124 created by 00:00:00.0000950 ms
+entry #124 addet to grid by 00:00:00.0000890 ms
+
+entry #125 created by 00:00:00.0001454 ms
+entry #125 addet to grid by 00:00:00.0000691 ms
+
+entry #126 created by 00:00:00.0001573 ms
+entry #126 addet to grid by 00:00:00.0000707 ms
+
+entry #127 created by 00:00:00.0001106 ms
+entry #127 addet to grid by 00:00:00.0000568 ms
+
+entry #128 created by 00:00:00.0001073 ms
+entry #128 addet to grid by 00:00:00.0000770 ms
+
+entry #129 created by 00:00:00.0001217 ms
+entry #129 addet to grid by 00:00:00.0000960 ms
+
+entry #130 created by 00:00:00.0001476 ms
+entry #130 addet to grid by 00:00:00.0000727 ms
+
+entry #131 created by 00:00:00.0001460 ms
+entry #131 addet to grid by 00:00:00.0000614 ms
+
+entry #132 created by 00:00:00.0001525 ms
+entry #132 addet to grid by 00:00:00.0000754 ms
+
+entry #133 created by 00:00:00.0001414 ms
+entry #133 addet to grid by 00:00:00.0000668 ms
+
+entry #134 created by 00:00:00.0001046 ms
+entry #134 addet to grid by 00:00:00.0000981 ms
+
+entry #135 created by 00:00:00.0001342 ms
+entry #135 addet to grid by 00:00:00.0000886 ms
+
+entry #136 created by 00:00:00.0001341 ms
+entry #136 addet to grid by 00:00:00.0000640 ms
+
+entry #137 created by 00:00:00.0001559 ms
+entry #137 addet to grid by 00:00:00.0000862 ms
+
+entry #138 created by 00:00:00.0001115 ms
+entry #138 addet to grid by 00:00:00.0000655 ms
+
+entry #139 created by 00:00:00.0001006 ms
+entry #139 addet to grid by 00:00:00.0000867 ms
+
+entry #140 created by 00:00:00.0001470 ms
+entry #140 addet to grid by 00:00:00.0000692 ms
+
+entry #141 created by 00:00:00.0000966 ms
+entry #141 addet to grid by 00:00:00.0000548 ms
+
+entry #142 created by 00:00:00.0000961 ms
+entry #142 addet to grid by 00:00:00.0000553 ms
+
+entry #143 created by 00:00:00.0000910 ms
+entry #143 addet to grid by 00:00:00.0000585 ms
+
+entry #144 created by 00:00:00.0001099 ms
+entry #144 addet to grid by 00:00:00.0000566 ms
+
+entry #145 created by 00:00:00.0001466 ms
+entry #145 addet to grid by 00:00:00.0000955 ms
+
+entry #146 created by 00:00:00.0001505 ms
+entry #146 addet to grid by 00:00:00.0000754 ms
+
+entry #147 created by 00:00:00.0001147 ms
+entry #147 addet to grid by 00:00:00.0000623 ms
+
+entry #148 created by 00:00:00.0001182 ms
+entry #148 addet to grid by 00:00:00.0000635 ms
+
+entry #149 created by 00:00:00.0001030 ms
+entry #149 addet to grid by 00:00:00.0000873 ms
+
+entry #150 created by 00:00:00.0001335 ms
+entry #150 addet to grid by 00:00:00.0000652 ms
+
+entry #151 created by 00:00:00.0001001 ms
+entry #151 addet to grid by 00:00:00.0000562 ms
+
+entry #152 created by 00:00:00.0000946 ms
+entry #152 addet to grid by 00:00:00.0000572 ms
+
+entry #153 created by 00:00:00.0000952 ms
+entry #153 addet to grid by 00:00:00.0000550 ms
+
+entry #154 created by 00:00:00.0001425 ms
+entry #154 addet to grid by 00:00:00.0000803 ms
+
+entry #155 created by 00:00:00.0001015 ms
+entry #155 addet to grid by 00:00:00.0000988 ms
+
+entry #156 created by 00:00:00.0001228 ms
+entry #156 addet to grid by 00:00:00.0000584 ms
+
+entry #157 created by 00:00:00.0001087 ms
+entry #157 addet to grid by 00:00:00.0000599 ms
+
+entry #158 created by 00:00:00.0000953 ms
+entry #158 addet to grid by 00:00:00.0000991 ms
+
+entry #159 created by 00:00:00.0001515 ms
+entry #159 addet to grid by 00:00:00.0000752 ms
+
+entry #160 created by 00:00:00.0001513 ms
+entry #160 addet to grid by 00:00:00.0000877 ms
+
+entry #161 created by 00:00:00.0001482 ms
+entry #161 addet to grid by 00:00:00.0001993 ms
+
+entry #162 created by 00:00:00.0001471 ms
+entry #162 addet to grid by 00:00:00.0000733 ms
+
+entry #163 created by 00:00:00.0001106 ms
+entry #163 addet to grid by 00:00:00.0000874 ms
+
+entry #164 created by 00:00:00.0001553 ms
+entry #164 addet to grid by 00:00:00.0000921 ms
+
+entry #165 created by 00:00:00.0001363 ms
+entry #165 addet to grid by 00:00:00.0000687 ms
+
+entry #166 created by 00:00:00.0001190 ms
+entry #166 addet to grid by 00:00:00.0001091 ms
+
+entry #167 created by 00:00:00.0001439 ms
+entry #167 addet to grid by 00:00:00.0000877 ms
+
+entry #168 created by 00:00:00.0001302 ms
+entry #168 addet to grid by 00:00:00.0000695 ms
+
+entry #169 created by 00:00:00.0001024 ms
+entry #169 addet to grid by 00:00:00.0000559 ms
+
+entry #170 created by 00:00:00.0000934 ms
+entry #170 addet to grid by 00:00:00.0000596 ms
+
+entry #171 created by 00:00:00.0000931 ms
+entry #171 addet to grid by 00:00:00.0000541 ms
+
+entry #172 created by 00:00:00.0000918 ms
+entry #172 addet to grid by 00:00:00.0000571 ms
+
+entry #173 created by 00:00:00.0000926 ms
+entry #173 addet to grid by 00:00:00.0000857 ms
+
+entry #174 created by 00:00:00.0001248 ms
+entry #174 addet to grid by 00:00:00.0000679 ms
+
+entry #175 created by 00:00:00.0001486 ms
+entry #175 addet to grid by 00:00:00.0000744 ms
+
+entry #176 created by 00:00:00.0001559 ms
+entry #176 addet to grid by 00:00:00.0000718 ms
+
+entry #177 created by 00:00:00.0001469 ms
+entry #177 addet to grid by 00:00:00.0000844 ms
+
+entry #178 created by 00:00:00.0001432 ms
+entry #178 addet to grid by 00:00:00.0000909 ms
+
+entry #179 created by 00:00:00.0001175 ms
+entry #179 addet to grid by 00:00:00.0000703 ms
+
+entry #180 created by 00:00:00.0001453 ms
+entry #180 addet to grid by 00:00:00.0000843 ms
+
+entry #181 created by 00:00:00.0001390 ms
+entry #181 addet to grid by 00:00:00.0001249 ms
+
+entry #182 created by 00:00:00.0001896 ms
+entry #182 addet to grid by 00:00:00.0000829 ms
+
+entry #183 created by 00:00:00.0002305 ms
+entry #183 addet to grid by 00:00:00.0002399 ms
+
+entry #184 created by 00:00:00.0002008 ms
+entry #184 addet to grid by 00:00:00.0000833 ms
+
+entry #185 created by 00:00:00.0001158 ms
+entry #185 addet to grid by 00:00:00.0000648 ms
+
+entry #186 created by 00:00:00.0001041 ms
+entry #186 addet to grid by 00:00:00.0000631 ms
+
+entry #187 created by 00:00:00.0001559 ms
+entry #187 addet to grid by 00:00:00.0000999 ms
+
+entry #188 created by 00:00:00.0001568 ms
+entry #188 addet to grid by 00:00:00.0000862 ms
+
+entry #189 created by 00:00:00.0001308 ms
+entry #189 addet to grid by 00:00:00.0000862 ms
+
+entry #190 created by 00:00:00.0001673 ms
+entry #190 addet to grid by 00:00:00.0000804 ms
+
+entry #191 created by 00:00:00.0001236 ms
+entry #191 addet to grid by 00:00:00.0000655 ms
+
+entry #192 created by 00:00:00.0001115 ms
+entry #192 addet to grid by 00:00:00.0001014 ms
+
+entry #193 created by 00:00:00.0001558 ms
+entry #193 addet to grid by 00:00:00.0000901 ms
+
+entry #194 created by 00:00:00.0001587 ms
+entry #194 addet to grid by 00:00:00.0000828 ms
+
+entry #195 created by 00:00:00.0001320 ms
+entry #195 addet to grid by 00:00:00.0000727 ms
+
+entry #196 created by 00:00:00.0001476 ms
+entry #196 addet to grid by 00:00:00.0000729 ms
+
+entry #197 created by 00:00:00.0001248 ms
+entry #197 addet to grid by 00:00:00.0000619 ms
+
+entry #198 created by 00:00:00.0000990 ms
+entry #198 addet to grid by 00:00:00.0000626 ms
+
+entry #199 created by 00:00:00.0000997 ms
+entry #199 addet to grid by 00:00:00.0000605 ms
+
+entry #200 created by 00:00:00.0001035 ms
+entry #200 addet to grid by 00:00:00.0000571 ms
+
+entry #201 created by 00:00:00.0001593 ms
+entry #201 addet to grid by 00:00:00.0000913 ms
+
+entry #202 created by 00:00:00.0001666 ms
+entry #202 addet to grid by 00:00:00.0001729 ms
+
+entry #203 created by 00:00:00.0001267 ms
+entry #203 addet to grid by 00:00:00.0000703 ms
+
+entry #204 created by 00:00:00.0001120 ms
+entry #204 addet to grid by 00:00:00.0000682 ms
+
+entry #205 created by 00:00:00.0001606 ms
+entry #205 addet to grid by 00:00:00.0000770 ms
+
+entry #206 created by 00:00:00.0001160 ms
+entry #206 addet to grid by 00:00:00.0000700 ms
+
+entry #207 created by 00:00:00.0001134 ms
+entry #207 addet to grid by 00:00:00.0000976 ms
+
+entry #208 created by 00:00:00.0001809 ms
+entry #208 addet to grid by 00:00:00.0001031 ms
+
+entry #209 created by 00:00:00.0001250 ms
+entry #209 addet to grid by 00:00:00.0001015 ms
+
+entry #210 created by 00:00:00.0001454 ms
+entry #210 addet to grid by 00:00:00.0000766 ms
+
+entry #211 created by 00:00:00.0001457 ms
+entry #211 addet to grid by 00:00:00.0000920 ms
+
+entry #212 created by 00:00:00.0001524 ms
+entry #212 addet to grid by 00:00:00.0001062 ms
+
+entry #213 created by 00:00:00.0001560 ms
+entry #213 addet to grid by 00:00:00.0000724 ms
+
+entry #214 created by 00:00:00.0001298 ms
+entry #214 addet to grid by 00:00:00.0000939 ms
+
+entry #215 created by 00:00:00.0001305 ms
+entry #215 addet to grid by 00:00:00.0000689 ms
+
+entry #216 created by 00:00:00.0001438 ms
+entry #216 addet to grid by 00:00:00.0000951 ms
+
+entry #217 created by 00:00:00.0001450 ms
+entry #217 addet to grid by 00:00:00.0000964 ms
+
+entry #218 created by 00:00:00.0001283 ms
+entry #218 addet to grid by 00:00:00.0000645 ms
+
+entry #219 created by 00:00:00.0000991 ms
+entry #219 addet to grid by 00:00:00.0000589 ms
+
+entry #220 created by 00:00:00.0000989 ms
+entry #220 addet to grid by 00:00:00.0000607 ms
+
+entry #221 created by 00:00:00.0001078 ms
+entry #221 addet to grid by 00:00:00.0000626 ms
+
+entry #222 created by 00:00:00.0001034 ms
+entry #222 addet to grid by 00:00:00.0000634 ms
+
+entry #223 created by 00:00:00.0001006 ms
+entry #223 addet to grid by 00:00:00.0001021 ms
+
+entry #224 created by 00:00:00.0001507 ms
+entry #224 addet to grid by 00:00:00.0000771 ms
+
+entry #225 created by 00:00:00.0002114 ms
+entry #225 addet to grid by 00:00:00.0001036 ms
+
+entry #226 created by 00:00:00.0001570 ms
+entry #226 addet to grid by 00:00:00.0000933 ms
+
+entry #227 created by 00:00:00.0001184 ms
+entry #227 addet to grid by 00:00:00.0001009 ms
+
+entry #228 created by 00:00:00.0001689 ms
+entry #228 addet to grid by 00:00:00.0001032 ms
+
+entry #229 created by 00:00:00.0001415 ms
+entry #229 addet to grid by 00:00:00.0001022 ms
+
+entry #230 created by 00:00:00.0001887 ms
+entry #230 addet to grid by 00:00:00.0000872 ms
+
+entry #231 created by 00:00:00.0001205 ms
+entry #231 addet to grid by 00:00:00.0000696 ms
+
+entry #232 created by 00:00:00.0001059 ms
+entry #232 addet to grid by 00:00:00.0000658 ms
+
+entry #233 created by 00:00:00.0001028 ms
+entry #233 addet to grid by 00:00:00.0000652 ms
+
+entry #234 created by 00:00:00.0001548 ms
+entry #234 addet to grid by 00:00:00.0000874 ms
+
+entry #235 created by 00:00:00.0001141 ms
+entry #235 addet to grid by 00:00:00.0000671 ms
+
+entry #236 created by 00:00:00.0001669 ms
+entry #236 addet to grid by 00:00:00.0000804 ms
+
+entry #237 created by 00:00:00.0001145 ms
+entry #237 addet to grid by 00:00:00.0000710 ms
+
+entry #238 created by 00:00:00.0001232 ms
+entry #238 addet to grid by 00:00:00.0000715 ms
+
+entry #239 created by 00:00:00.0001041 ms
+entry #239 addet to grid by 00:00:00.0000635 ms
+
+entry #240 created by 00:00:00.0001006 ms
+entry #240 addet to grid by 00:00:00.0000606 ms
+
+entry #241 created by 00:00:00.0160486 ms
+entry #241 addet to grid by 00:00:00.0001254 ms
+
+entry #242 created by 00:00:00.0002017 ms
+entry #242 addet to grid by 00:00:00.0001255 ms
+
+entry #243 created by 00:00:00.0001653 ms
+entry #243 addet to grid by 00:00:00.0000804 ms
+
+entry #244 created by 00:00:00.0001157 ms
+entry #244 addet to grid by 00:00:00.0000737 ms
+
+entry #245 created by 00:00:00.0001175 ms
+entry #245 addet to grid by 00:00:00.0000888 ms
+
+entry #246 created by 00:00:00.0009354 ms
+entry #246 addet to grid by 00:00:00.0000785 ms
+
+entry #247 created by 00:00:00.0001662 ms
+entry #247 addet to grid by 00:00:00.0000758 ms
+
+entry #248 created by 00:00:00.0001469 ms
+entry #248 addet to grid by 00:00:00.0000737 ms
+
+entry #249 created by 00:00:00.0001056 ms
+entry #249 addet to grid by 00:00:00.0000619 ms
+
+entry #250 created by 00:00:00.0000937 ms
+entry #250 addet to grid by 00:00:00.0000582 ms
+
+entry #251 created by 00:00:00.0001002 ms
+entry #251 addet to grid by 00:00:00.0000596 ms
+
+entry #252 created by 00:00:00.0000910 ms
+entry #252 addet to grid by 00:00:00.0000912 ms
+
+entry #253 created by 00:00:00.0001310 ms
+entry #253 addet to grid by 00:00:00.0000862 ms
+
+entry #254 created by 00:00:00.0001295 ms
+entry #254 addet to grid by 00:00:00.0000635 ms
+
+entry #255 created by 00:00:00.0000963 ms
+entry #255 addet to grid by 00:00:00.0000590 ms
+
+entry #256 created by 00:00:00.0009299 ms
+entry #256 addet to grid by 00:00:00.0000745 ms
+
+entry #257 created by 00:00:00.0001379 ms
+entry #257 addet to grid by 00:00:00.0000930 ms
+
+entry #258 created by 00:00:00.0001020 ms
+entry #258 addet to grid by 00:00:00.0000609 ms
+
+entry #259 created by 00:00:00.0000951 ms
+entry #259 addet to grid by 00:00:00.0000608 ms
+
+entry #260 created by 00:00:00.0000902 ms
+entry #260 addet to grid by 00:00:00.0000555 ms
+
+entry #261 created by 00:00:00.0000898 ms
+entry #261 addet to grid by 00:00:00.0000560 ms
+
+entry #262 created by 00:00:00.0001410 ms
+entry #262 addet to grid by 00:00:00.0000715 ms
+
+entry #263 created by 00:00:00.0001580 ms
+entry #263 addet to grid by 00:00:00.0000740 ms
+
+entry #264 created by 00:00:00.0001070 ms
+entry #264 addet to grid by 00:00:00.0000648 ms
+
+entry #265 created by 00:00:00.0000978 ms
+entry #265 addet to grid by 00:00:00.0000595 ms
+
+entry #266 created by 00:00:00.0001373 ms
+entry #266 addet to grid by 00:00:00.0000730 ms
+
+entry #267 created by 00:00:00.0001032 ms
+entry #267 addet to grid by 00:00:00.0000927 ms
+
+entry #268 created by 00:00:00.0001634 ms
+entry #268 addet to grid by 00:00:00.0000745 ms
+
+entry #269 created by 00:00:00.0001160 ms
+entry #269 addet to grid by 00:00:00.0000784 ms
+
+entry #270 created by 00:00:00.0001712 ms
+entry #270 addet to grid by 00:00:00.0000774 ms
+
+entry #271 created by 00:00:00.0001112 ms
+entry #271 addet to grid by 00:00:00.0000692 ms
+
+entry #272 created by 00:00:00.0001102 ms
+entry #272 addet to grid by 00:00:00.0000645 ms
+
+entry #273 created by 00:00:00.0001075 ms
+entry #273 addet to grid by 00:00:00.0000768 ms
+
+entry #274 created by 00:00:00.0001254 ms
+entry #274 addet to grid by 00:00:00.0000940 ms
+
+entry #275 created by 00:00:00.0000978 ms
+entry #275 addet to grid by 00:00:00.0000590 ms
+
+entry #276 created by 00:00:00.0001544 ms
+entry #276 addet to grid by 00:00:00.0000811 ms
+
+entry #277 created by 00:00:00.0001164 ms
+entry #277 addet to grid by 00:00:00.0000639 ms
+
+entry #278 created by 00:00:00.0000936 ms
+entry #278 addet to grid by 00:00:00.0000590 ms
+
+entry #279 created by 00:00:00.0000908 ms
+entry #279 addet to grid by 00:00:00.0000586 ms
+
+entry #280 created by 00:00:00.0001512 ms
+entry #280 addet to grid by 00:00:00.0000585 ms
+
+entry #281 created by 00:00:00.0000907 ms
+entry #281 addet to grid by 00:00:00.0000890 ms
+
+entry #282 created by 00:00:00.0001249 ms
+entry #282 addet to grid by 00:00:00.0000668 ms
+
+entry #283 created by 00:00:00.0000987 ms
+entry #283 addet to grid by 00:00:00.0000631 ms
+
+entry #284 created by 00:00:00.0000993 ms
+entry #284 addet to grid by 00:00:00.0000623 ms
+
+entry #285 created by 00:00:00.0000971 ms
+entry #285 addet to grid by 00:00:00.0000600 ms
+
+entry #286 created by 00:00:00.0000916 ms
+entry #286 addet to grid by 00:00:00.0000595 ms
+
+entry #287 created by 00:00:00.0000892 ms
+entry #287 addet to grid by 00:00:00.0000600 ms
+
+entry #288 created by 00:00:00.0000915 ms
+entry #288 addet to grid by 00:00:00.0000579 ms
+
+entry #289 created by 00:00:00.0001425 ms
+entry #289 addet to grid by 00:00:00.0000951 ms
+
+entry #290 created by 00:00:00.0001145 ms
+entry #290 addet to grid by 00:00:00.0000709 ms
+
+entry #291 created by 00:00:00.0001622 ms
+entry #291 addet to grid by 00:00:00.0000910 ms
+
+entry #292 created by 00:00:00.0001190 ms
+entry #292 addet to grid by 00:00:00.0000744 ms
+
+entry #293 created by 00:00:00.0001815 ms
+entry #293 addet to grid by 00:00:00.0001008 ms
+
+entry #294 created by 00:00:00.0001791 ms
+entry #294 addet to grid by 00:00:00.0002609 ms
+
+entry #295 created by 00:00:00.0001034 ms
+entry #295 addet to grid by 00:00:00.0000631 ms
+
+entry #296 created by 00:00:00.0001399 ms
+entry #296 addet to grid by 00:00:00.0000632 ms
+
+entry #297 created by 00:00:00.0000880 ms
+entry #297 addet to grid by 00:00:00.0000565 ms
+
+entry #298 created by 00:00:00.0000826 ms
+entry #298 addet to grid by 00:00:00.0000517 ms
+
+entry #299 created by 00:00:00.0000736 ms
+entry #299 addet to grid by 00:00:00.0000745 ms
+
+entry #300 created by 00:00:00.0001004 ms
+entry #300 addet to grid by 00:00:00.0000535 ms
+
+entry #301 created by 00:00:00.0000771 ms
+entry #301 addet to grid by 00:00:00.0000733 ms
+
+entry #302 created by 00:00:00.0001201 ms
+entry #302 addet to grid by 00:00:00.0000683 ms
+
+entry #303 created by 00:00:00.0000878 ms
+entry #303 addet to grid by 00:00:00.0000550 ms
+
+entry #304 created by 00:00:00.0000791 ms
+entry #304 addet to grid by 00:00:00.0000539 ms
+
+entry #305 created by 00:00:00.0001312 ms
+entry #305 addet to grid by 00:00:00.0000760 ms
+
+entry #306 created by 00:00:00.0001050 ms
+entry #306 addet to grid by 00:00:00.0000766 ms
+
+entry #307 created by 00:00:00.0001247 ms
+entry #307 addet to grid by 00:00:00.0000709 ms
+
+entry #308 created by 00:00:00.0001013 ms
+entry #308 addet to grid by 00:00:00.0000757 ms
+
+entry #309 created by 00:00:00.0001196 ms
+entry #309 addet to grid by 00:00:00.0000522 ms
+
+entry #310 created by 00:00:00.0000834 ms
+entry #310 addet to grid by 00:00:00.0000458 ms
+
+entry #311 created by 00:00:00.0000730 ms
+entry #311 addet to grid by 00:00:00.0000492 ms
+
+entry #312 created by 00:00:00.0000740 ms
+entry #312 addet to grid by 00:00:00.0000708 ms
+
+entry #313 created by 00:00:00.0002351 ms
+entry #313 addet to grid by 00:00:00.0000685 ms
+
+entry #314 created by 00:00:00.0000873 ms
+entry #314 addet to grid by 00:00:00.0000482 ms
+
+entry #315 created by 00:00:00.0001051 ms
+entry #315 addet to grid by 00:00:00.0000580 ms
+
+entry #316 created by 00:00:00.0000843 ms
+entry #316 addet to grid by 00:00:00.0000579 ms
+
+entry #317 created by 00:00:00.0000855 ms
+entry #317 addet to grid by 00:00:00.0000458 ms
+
+entry #318 created by 00:00:00.0000783 ms
+entry #318 addet to grid by 00:00:00.0000447 ms
+
+entry #319 created by 00:00:00.0000953 ms
+entry #319 addet to grid by 00:00:00.0000451 ms
+
+entry #320 created by 00:00:00.0000812 ms
+entry #320 addet to grid by 00:00:00.0000728 ms
+
+entry #321 created by 00:00:00.0001321 ms
+entry #321 addet to grid by 00:00:00.0000844 ms
+
+entry #322 created by 00:00:00.0001287 ms
+entry #322 addet to grid by 00:00:00.0000885 ms
+
+entry #323 created by 00:00:00.0000851 ms
+entry #323 addet to grid by 00:00:00.0000493 ms
+
+entry #324 created by 00:00:00.0001231 ms
+entry #324 addet to grid by 00:00:00.0000708 ms
+
+entry #325 created by 00:00:00.0001015 ms
+entry #325 addet to grid by 00:00:00.0000731 ms
+
+entry #326 created by 00:00:00.0001125 ms
+entry #326 addet to grid by 00:00:00.0000705 ms
+
+entry #327 created by 00:00:00.0001211 ms
+entry #327 addet to grid by 00:00:00.0000703 ms
+
+entry #328 created by 00:00:00.0001085 ms
+entry #328 addet to grid by 00:00:00.0000515 ms
+
+entry #329 created by 00:00:00.0001057 ms
+entry #329 addet to grid by 00:00:00.0000472 ms
+
+entry #330 created by 00:00:00.0000747 ms
+entry #330 addet to grid by 00:00:00.0000625 ms
+
+entry #331 created by 00:00:00.0000968 ms
+entry #331 addet to grid by 00:00:00.0000436 ms
+
+entry #332 created by 00:00:00.0000746 ms
+entry #332 addet to grid by 00:00:00.0000421 ms
+
+entry #333 created by 00:00:00.0001223 ms
+entry #333 addet to grid by 00:00:00.0000595 ms
+
+entry #334 created by 00:00:00.0001208 ms
+entry #334 addet to grid by 00:00:00.0000544 ms
+
+entry #335 created by 00:00:00.0000965 ms
+entry #335 addet to grid by 00:00:00.0000521 ms
+
+entry #336 created by 00:00:00.0000811 ms
+entry #336 addet to grid by 00:00:00.0000455 ms
+
+entry #337 created by 00:00:00.0001201 ms
+entry #337 addet to grid by 00:00:00.0000586 ms
+
+entry #338 created by 00:00:00.0000887 ms
+entry #338 addet to grid by 00:00:00.0000734 ms
+
+entry #339 created by 00:00:00.0001079 ms
+entry #339 addet to grid by 00:00:00.0000700 ms
+
+entry #340 created by 00:00:00.0001030 ms
+entry #340 addet to grid by 00:00:00.0000548 ms
+
+entry #341 created by 00:00:00.0000983 ms
+entry #341 addet to grid by 00:00:00.0000493 ms
+
+entry #342 created by 00:00:00.0000787 ms
+entry #342 addet to grid by 00:00:00.0000442 ms
+
+entry #343 created by 00:00:00.0000701 ms
+entry #343 addet to grid by 00:00:00.0000416 ms
+
+entry #344 created by 00:00:00.0000721 ms
+entry #344 addet to grid by 00:00:00.0000438 ms
+
+entry #345 created by 00:00:00.0000816 ms
+entry #345 addet to grid by 00:00:00.0000428 ms
+
+entry #346 created by 00:00:00.0001490 ms
+entry #346 addet to grid by 00:00:00.0000753 ms
+
+entry #347 created by 00:00:00.0001082 ms
+entry #347 addet to grid by 00:00:00.0000537 ms
+
+entry #348 created by 00:00:00.0001172 ms
+entry #348 addet to grid by 00:00:00.0000725 ms
+
+entry #349 created by 00:00:00.0001076 ms
+entry #349 addet to grid by 00:00:00.0000496 ms
+
+entry #350 created by 00:00:00.0000805 ms
+entry #350 addet to grid by 00:00:00.0000472 ms
+
+entry #351 created by 00:00:00.0001150 ms
+entry #351 addet to grid by 00:00:00.0000736 ms
+
+entry #352 created by 00:00:00.0001177 ms
+entry #352 addet to grid by 00:00:00.0000598 ms
+
+entry #353 created by 00:00:00.0000928 ms
+entry #353 addet to grid by 00:00:00.0000692 ms
+
+entry #354 created by 00:00:00.0001144 ms
+entry #354 addet to grid by 00:00:00.0000575 ms
+
+entry #355 created by 00:00:00.0000821 ms
+entry #355 addet to grid by 00:00:00.0000476 ms
+
+entry #356 created by 00:00:00.0001196 ms
+entry #356 addet to grid by 00:00:00.0000650 ms
+
+entry #357 created by 00:00:00.0000977 ms
+entry #357 addet to grid by 00:00:00.0000551 ms
+
+entry #358 created by 00:00:00.0000815 ms
+entry #358 addet to grid by 00:00:00.0000489 ms
+
+entry #359 created by 00:00:00.0000815 ms
+entry #359 addet to grid by 00:00:00.0000682 ms
+
+entry #360 created by 00:00:00.0001201 ms
+entry #360 addet to grid by 00:00:00.0000601 ms
+
+entry #361 created by 00:00:00.0000871 ms
+entry #361 addet to grid by 00:00:00.0000528 ms
+
+entry #362 created by 00:00:00.0001042 ms
+entry #362 addet to grid by 00:00:00.0000510 ms
+
+entry #363 created by 00:00:00.0000783 ms
+entry #363 addet to grid by 00:00:00.0000780 ms
+
+entry #364 created by 00:00:00.0001210 ms
+entry #364 addet to grid by 00:00:00.0000575 ms
+
+entry #365 created by 00:00:00.0000795 ms
+entry #365 addet to grid by 00:00:00.0000448 ms
+
+entry #366 created by 00:00:00.0000938 ms
+entry #366 addet to grid by 00:00:00.0000465 ms
+
+entry #367 created by 00:00:00.0001192 ms
+entry #367 addet to grid by 00:00:00.0000722 ms
+
+entry #368 created by 00:00:00.0001084 ms
+entry #368 addet to grid by 00:00:00.0000742 ms
+
+entry #369 created by 00:00:00.0001088 ms
+entry #369 addet to grid by 00:00:00.0000530 ms
+
+entry #370 created by 00:00:00.0000801 ms
+entry #370 addet to grid by 00:00:00.0000468 ms
+
+entry #371 created by 00:00:00.0000749 ms
+entry #371 addet to grid by 00:00:00.0000430 ms
+
+entry #372 created by 00:00:00.0000704 ms
+entry #372 addet to grid by 00:00:00.0000428 ms
+
+entry #373 created by 00:00:00.0000814 ms
+entry #373 addet to grid by 00:00:00.0000452 ms
+
+entry #374 created by 00:00:00.0000707 ms
+entry #374 addet to grid by 00:00:00.0000429 ms
+
+entry #375 created by 00:00:00.0000716 ms
+entry #375 addet to grid by 00:00:00.0000444 ms
+
+entry #376 created by 00:00:00.0000715 ms
+entry #376 addet to grid by 00:00:00.0000431 ms
+
+entry #377 created by 00:00:00.0000724 ms
+entry #377 addet to grid by 00:00:00.0000781 ms
+
+entry #378 created by 00:00:00.0001123 ms
+entry #378 addet to grid by 00:00:00.0000599 ms
+
+entry #379 created by 00:00:00.0001225 ms
+entry #379 addet to grid by 00:00:00.0000570 ms
+
+entry #380 created by 00:00:00.0000794 ms
+entry #380 addet to grid by 00:00:00.0000677 ms
+
+entry #381 created by 00:00:00.0001109 ms
+entry #381 addet to grid by 00:00:00.0000505 ms
+
+entry #382 created by 00:00:00.0000833 ms
+entry #382 addet to grid by 00:00:00.0000489 ms
+
+entry #383 created by 00:00:00.0000806 ms
+entry #383 addet to grid by 00:00:00.0000463 ms
+
+entry #384 created by 00:00:00.0000714 ms
+entry #384 addet to grid by 00:00:00.0000446 ms
+
+entry #385 created by 00:00:00.0000726 ms
+entry #385 addet to grid by 00:00:00.0000924 ms
+
+entry #386 created by 00:00:00.0001085 ms
+entry #386 addet to grid by 00:00:00.0000562 ms
+
+entry #387 created by 00:00:00.0000981 ms
+entry #387 addet to grid by 00:00:00.0000495 ms
+
+entry #388 created by 00:00:00.0000780 ms
+entry #388 addet to grid by 00:00:00.0000465 ms
+
+entry #389 created by 00:00:00.0000730 ms
+entry #389 addet to grid by 00:00:00.0000452 ms
+
+entry #390 created by 00:00:00.0000713 ms
+entry #390 addet to grid by 00:00:00.0000776 ms
+
+entry #391 created by 00:00:00.0001110 ms
+entry #391 addet to grid by 00:00:00.0005942 ms
+
+entry #392 created by 00:00:00.0000851 ms
+entry #392 addet to grid by 00:00:00.0000619 ms
+
+entry #393 created by 00:00:00.0000930 ms
+entry #393 addet to grid by 00:00:00.0000508 ms
+
+entry #394 created by 00:00:00.0000749 ms
+entry #394 addet to grid by 00:00:00.0000453 ms
+
+entry #395 created by 00:00:00.0001013 ms
+entry #395 addet to grid by 00:00:00.0000482 ms
+
+entry #396 created by 00:00:00.0001214 ms
+entry #396 addet to grid by 00:00:00.0000733 ms
+
+entry #397 created by 00:00:00.0001244 ms
+entry #397 addet to grid by 00:00:00.0000600 ms
+
+entry #398 created by 00:00:00.0000879 ms
+entry #398 addet to grid by 00:00:00.0000485 ms
+
+entry #399 created by 00:00:00.0001208 ms
+entry #399 addet to grid by 00:00:00.0000709 ms
+
+entry #400 created by 00:00:00.0001034 ms
+entry #400 addet to grid by 00:00:00.0000492 ms
+
+entry #401 created by 00:00:00.0001167 ms
+entry #401 addet to grid by 00:00:00.0000739 ms
+
+entry #402 created by 00:00:00.0001098 ms
+entry #402 addet to grid by 00:00:00.0000676 ms
+
+entry #403 created by 00:00:00.0001184 ms
+entry #403 addet to grid by 00:00:00.0000619 ms
+
+entry #404 created by 00:00:00.0000922 ms
+entry #404 addet to grid by 00:00:00.0000568 ms
+
+entry #405 created by 00:00:00.0001189 ms
+entry #405 addet to grid by 00:00:00.0000711 ms
+
+entry #406 created by 00:00:00.0001074 ms
+entry #406 addet to grid by 00:00:00.0000536 ms
+
+entry #407 created by 00:00:00.0000783 ms
+entry #407 addet to grid by 00:00:00.0000463 ms
+
+entry #408 created by 00:00:00.0000723 ms
+entry #408 addet to grid by 00:00:00.0000750 ms
+
+entry #409 created by 00:00:00.0001192 ms
+entry #409 addet to grid by 00:00:00.0000558 ms
+
+entry #410 created by 00:00:00.0000840 ms
+entry #410 addet to grid by 00:00:00.0000763 ms
+
+entry #411 created by 00:00:00.0001122 ms
+entry #411 addet to grid by 00:00:00.0000733 ms
+
+entry #412 created by 00:00:00.0001471 ms
+entry #412 addet to grid by 00:00:00.0000635 ms
+
+entry #413 created by 00:00:00.0000866 ms
+entry #413 addet to grid by 00:00:00.0000472 ms
+
+entry #414 created by 00:00:00.0001408 ms
+entry #414 addet to grid by 00:00:00.0000506 ms
+
+entry #415 created by 00:00:00.0000761 ms
+entry #415 addet to grid by 00:00:00.0000765 ms
+
+entry #416 created by 00:00:00.0001092 ms
+entry #416 addet to grid by 00:00:00.0000572 ms
+
+entry #417 created by 00:00:00.0000897 ms
+entry #417 addet to grid by 00:00:00.0000883 ms
+
+entry #418 created by 00:00:00.0000998 ms
+entry #418 addet to grid by 00:00:00.0000529 ms
+
+entry #419 created by 00:00:00.0000767 ms
+entry #419 addet to grid by 00:00:00.0000461 ms
+
+entry #420 created by 00:00:00.0000708 ms
+entry #420 addet to grid by 00:00:00.0000443 ms
+
+entry #421 created by 00:00:00.0000901 ms
+entry #421 addet to grid by 00:00:00.0000467 ms
+
+entry #422 created by 00:00:00.0001185 ms
+entry #422 addet to grid by 00:00:00.0000607 ms
+
+entry #423 created by 00:00:00.0001211 ms
+entry #423 addet to grid by 00:00:00.0000724 ms
+
+entry #424 created by 00:00:00.0001060 ms
+entry #424 addet to grid by 00:00:00.0000542 ms
+
+entry #425 created by 00:00:00.0000822 ms
+entry #425 addet to grid by 00:00:00.0000479 ms
+
+entry #426 created by 00:00:00.0001074 ms
+entry #426 addet to grid by 00:00:00.0000553 ms
+
+entry #427 created by 00:00:00.0000748 ms
+entry #427 addet to grid by 00:00:00.0000757 ms
+
+entry #428 created by 00:00:00.0001398 ms
+entry #428 addet to grid by 00:00:00.0000581 ms
+
+entry #429 created by 00:00:00.0000848 ms
+entry #429 addet to grid by 00:00:00.0000681 ms
+
+entry #430 created by 00:00:00.0001045 ms
+entry #430 addet to grid by 00:00:00.0000531 ms
+
+entry #431 created by 00:00:00.0000776 ms
+entry #431 addet to grid by 00:00:00.0000480 ms
+
+entry #432 created by 00:00:00.0000878 ms
+entry #432 addet to grid by 00:00:00.0000541 ms
+
+entry #433 created by 00:00:00.0001225 ms
+entry #433 addet to grid by 00:00:00.0000630 ms
+
+entry #434 created by 00:00:00.0001151 ms
+entry #434 addet to grid by 00:00:00.0000619 ms
+
+entry #435 created by 00:00:00.0001156 ms
+entry #435 addet to grid by 00:00:00.0000605 ms
+
+entry #436 created by 00:00:00.0001160 ms
+entry #436 addet to grid by 00:00:00.0000750 ms
+
+entry #437 created by 00:00:00.0001210 ms
+entry #437 addet to grid by 00:00:00.0000620 ms
+
+entry #438 created by 00:00:00.0000835 ms
+entry #438 addet to grid by 00:00:00.0000738 ms
+
+entry #439 created by 00:00:00.0001066 ms
+entry #439 addet to grid by 00:00:00.0000605 ms
+
+entry #440 created by 00:00:00.0000792 ms
+entry #440 addet to grid by 00:00:00.0000749 ms
+
+entry #441 created by 00:00:00.0001121 ms
+entry #441 addet to grid by 00:00:00.0000601 ms
+
+entry #442 created by 00:00:00.0001173 ms
+entry #442 addet to grid by 00:00:00.0000625 ms
+
+entry #443 created by 00:00:00.0001152 ms
+entry #443 addet to grid by 00:00:00.0000555 ms
+
+entry #444 created by 00:00:00.0000811 ms
+entry #444 addet to grid by 00:00:00.0000509 ms
+
+entry #445 created by 00:00:00.0001601 ms
+entry #445 addet to grid by 00:00:00.0000629 ms
+
+entry #446 created by 00:00:00.0000902 ms
+entry #446 addet to grid by 00:00:00.0000560 ms
+
+entry #447 created by 00:00:00.0001182 ms
+entry #447 addet to grid by 00:00:00.0000557 ms
+
+entry #448 created by 00:00:00.0001163 ms
+entry #448 addet to grid by 00:00:00.0000627 ms
+
+entry #449 created by 00:00:00.0000868 ms
+entry #449 addet to grid by 00:00:00.0000960 ms
+
+entry #450 created by 00:00:00.0001157 ms
+entry #450 addet to grid by 00:00:00.0000660 ms
+
+entry #451 created by 00:00:00.0000887 ms
+entry #451 addet to grid by 00:00:00.0000520 ms
+
+entry #452 created by 00:00:00.0000774 ms
+entry #452 addet to grid by 00:00:00.0000491 ms
+
+entry #453 created by 00:00:00.0000767 ms
+entry #453 addet to grid by 00:00:00.0000772 ms
+
+entry #454 created by 00:00:00.0001087 ms
+entry #454 addet to grid by 00:00:00.0000592 ms
+
+entry #455 created by 00:00:00.0001334 ms
+entry #455 addet to grid by 00:00:00.0000634 ms
+
+entry #456 created by 00:00:00.0000929 ms
+entry #456 addet to grid by 00:00:00.0000578 ms
+
+entry #457 created by 00:00:00.0000867 ms
+entry #457 addet to grid by 00:00:00.0000532 ms
+
+entry #458 created by 00:00:00.0001211 ms
+entry #458 addet to grid by 00:00:00.0000672 ms
+
+entry #459 created by 00:00:00.0000901 ms
+entry #459 addet to grid by 00:00:00.0000528 ms
+
+entry #460 created by 00:00:00.0000776 ms
+entry #460 addet to grid by 00:00:00.0000488 ms
+
+entry #461 created by 00:00:00.0001099 ms
+entry #461 addet to grid by 00:00:00.0000490 ms
+
+entry #462 created by 00:00:00.0000735 ms
+entry #462 addet to grid by 00:00:00.0000458 ms
+
+entry #463 created by 00:00:00.0000716 ms
+entry #463 addet to grid by 00:00:00.0000480 ms
+
+entry #464 created by 00:00:00.0001195 ms
+entry #464 addet to grid by 00:00:00.0000644 ms
+
+entry #465 created by 00:00:00.0001216 ms
+entry #465 addet to grid by 00:00:00.0000680 ms
+
+entry #466 created by 00:00:00.0000975 ms
+entry #466 addet to grid by 00:00:00.0000609 ms
+
+entry #467 created by 00:00:00.0001237 ms
+entry #467 addet to grid by 00:00:00.0000788 ms
+
+entry #468 created by 00:00:00.0001110 ms
+entry #468 addet to grid by 00:00:00.0000633 ms
+
+entry #469 created by 00:00:00.0001434 ms
+entry #469 addet to grid by 00:00:00.0000532 ms
+
+entry #470 created by 00:00:00.0000775 ms
+entry #470 addet to grid by 00:00:00.0000498 ms
+
+entry #471 created by 00:00:00.0000754 ms
+entry #471 addet to grid by 00:00:00.0000480 ms
+
+entry #472 created by 00:00:00.0000738 ms
+entry #472 addet to grid by 00:00:00.0000490 ms
+
+entry #473 created by 00:00:00.0000875 ms
+entry #473 addet to grid by 00:00:00.0000818 ms
+
+entry #474 created by 00:00:00.0001140 ms
+entry #474 addet to grid by 00:00:00.0000626 ms
+
+entry #475 created by 00:00:00.0000909 ms
+entry #475 addet to grid by 00:00:00.0000574 ms
+
+entry #476 created by 00:00:00.0001164 ms
+entry #476 addet to grid by 00:00:00.0000636 ms
+
+entry #477 created by 00:00:00.0000911 ms
+entry #477 addet to grid by 00:00:00.0000537 ms
+
+entry #478 created by 00:00:00.0001203 ms
+entry #478 addet to grid by 00:00:00.0000516 ms
+
+entry #479 created by 00:00:00.0000762 ms
+entry #479 addet to grid by 00:00:00.0000769 ms
+
+entry #480 created by 00:00:00.0001179 ms
+entry #480 addet to grid by 00:00:00.0000629 ms
+
+entry #481 created by 00:00:00.0001130 ms
+entry #481 addet to grid by 00:00:00.0000874 ms
+
+entry #482 created by 00:00:00.0001123 ms
+entry #482 addet to grid by 00:00:00.0000760 ms
+
+entry #483 created by 00:00:00.0001196 ms
+entry #483 addet to grid by 00:00:00.0000648 ms
+
+entry #484 created by 00:00:00.0000901 ms
+entry #484 addet to grid by 00:00:00.0000510 ms
+
+entry #485 created by 00:00:00.0000829 ms
+entry #485 addet to grid by 00:00:00.0000610 ms
+
+entry #486 created by 00:00:00.0000883 ms
+entry #486 addet to grid by 00:00:00.0000533 ms
+
+entry #487 created by 00:00:00.0001275 ms
+entry #487 addet to grid by 00:00:00.0000710 ms
+
+entry #488 created by 00:00:00.0000953 ms
+entry #488 addet to grid by 00:00:00.0000825 ms
+
+entry #489 created by 00:00:00.0001086 ms
+entry #489 addet to grid by 00:00:00.0000753 ms
+
+entry #490 created by 00:00:00.0001230 ms
+entry #490 addet to grid by 00:00:00.0000769 ms
+
+entry #491 created by 00:00:00.0001085 ms
+entry #491 addet to grid by 00:00:00.0000537 ms
+
+entry #492 created by 00:00:00.0000978 ms
+entry #492 addet to grid by 00:00:00.0000542 ms
+
+entry #493 created by 00:00:00.0001266 ms
+entry #493 addet to grid by 00:00:00.0000635 ms
+
+entry #494 created by 00:00:00.0002639 ms
+entry #494 addet to grid by 00:00:00.0000731 ms
+
+entry #495 created by 00:00:00.0001508 ms
+entry #495 addet to grid by 00:00:00.0000688 ms
+
+entry #496 created by 00:00:00.0002806 ms
+entry #496 addet to grid by 00:00:00.0000868 ms
+
+entry #497 created by 00:00:00.0001185 ms
+entry #497 addet to grid by 00:00:00.0000655 ms
+
+entry #498 created by 00:00:00.0001053 ms
+entry #498 addet to grid by 00:00:00.0000631 ms
+
+entry #499 created by 00:00:00.0001598 ms
+entry #499 addet to grid by 00:00:00.0000739 ms
+
+entry #500 created by 00:00:00.0001118 ms
+entry #500 addet to grid by 00:00:00.0000555 ms
+
+entry #501 created by 00:00:00.0001058 ms
+entry #501 addet to grid by 00:00:00.0000561 ms
+
+entry #502 created by 00:00:00.0000946 ms
+entry #502 addet to grid by 00:00:00.0000593 ms
+
+entry #503 created by 00:00:00.0001147 ms
+entry #503 addet to grid by 00:00:00.0000662 ms
+
+entry #504 created by 00:00:00.0000857 ms
+entry #504 addet to grid by 00:00:00.0000576 ms
+
+entry #505 created by 00:00:00.0001321 ms
+entry #505 addet to grid by 00:00:00.0000837 ms
+
+entry #506 created by 00:00:00.0001531 ms
+entry #506 addet to grid by 00:00:00.0000917 ms
+
+entry #507 created by 00:00:00.0001267 ms
+entry #507 addet to grid by 00:00:00.0000657 ms
+
+entry #508 created by 00:00:00.0000960 ms
+entry #508 addet to grid by 00:00:00.0000804 ms
+
+entry #509 created by 00:00:00.0001214 ms
+entry #509 addet to grid by 00:00:00.0000838 ms
+
+entry #510 created by 00:00:00.0001296 ms
+entry #510 addet to grid by 00:00:00.0000708 ms
+
+entry #511 created by 00:00:00.0001453 ms
+entry #511 addet to grid by 00:00:00.0000581 ms
+
+entry #512 created by 00:00:00.0001453 ms
+entry #512 addet to grid by 00:00:00.0000600 ms
+
+entry #513 created by 00:00:00.0000889 ms
+entry #513 addet to grid by 00:00:00.0001142 ms
+
+entry #514 created by 00:00:00.0001168 ms
+entry #514 addet to grid by 00:00:00.0000536 ms
+
+entry #515 created by 00:00:00.0000956 ms
+entry #515 addet to grid by 00:00:00.0000564 ms
+
+entry #516 created by 00:00:00.0001023 ms
+entry #516 addet to grid by 00:00:00.0000561 ms
+
+entry #517 created by 00:00:00.0001810 ms
+entry #517 addet to grid by 00:00:00.0000895 ms
+
+entry #518 created by 00:00:00.0001079 ms
+entry #518 addet to grid by 00:00:00.0000650 ms
+
+entry #519 created by 00:00:00.0001222 ms
+entry #519 addet to grid by 00:00:00.0000794 ms
+
+entry #520 created by 00:00:00.0001234 ms
+entry #520 addet to grid by 00:00:00.0000670 ms
+
+entry #521 created by 00:00:00.0000879 ms
+entry #521 addet to grid by 00:00:00.0000819 ms
+
+entry #522 created by 00:00:00.0001212 ms
+entry #522 addet to grid by 00:00:00.0000710 ms
+
+entry #523 created by 00:00:00.0001285 ms
+entry #523 addet to grid by 00:00:00.0000651 ms
+
+entry #524 created by 00:00:00.0000939 ms
+entry #524 addet to grid by 00:00:00.0000624 ms
+
+entry #525 created by 00:00:00.0001633 ms
+entry #525 addet to grid by 00:00:00.0000848 ms
+
+entry #526 created by 00:00:00.0001266 ms
+entry #526 addet to grid by 00:00:00.0000721 ms
+
+entry #527 created by 00:00:00.0001831 ms
+entry #527 addet to grid by 00:00:00.0000936 ms
+
+entry #528 created by 00:00:00.0001241 ms
+entry #528 addet to grid by 00:00:00.0000886 ms
+
+entry #529 created by 00:00:00.0001278 ms
+entry #529 addet to grid by 00:00:00.0000666 ms
+
+entry #530 created by 00:00:00.0000957 ms
+entry #530 addet to grid by 00:00:00.0000864 ms
+
+entry #531 created by 00:00:00.0001237 ms
+entry #531 addet to grid by 00:00:00.0000705 ms
+
+entry #532 created by 00:00:00.0001000 ms
+entry #532 addet to grid by 00:00:00.0000644 ms
+
+entry #533 created by 00:00:00.0001010 ms
+entry #533 addet to grid by 00:00:00.0000625 ms
+
+entry #534 created by 00:00:00.0000942 ms
+entry #534 addet to grid by 00:00:00.0000540 ms
+
+entry #535 created by 00:00:00.0000870 ms
+entry #535 addet to grid by 00:00:00.0000614 ms
+
+entry #536 created by 00:00:00.0000863 ms
+entry #536 addet to grid by 00:00:00.0000548 ms
+
+entry #537 created by 00:00:00.0000928 ms
+entry #537 addet to grid by 00:00:00.0000879 ms
+
+entry #538 created by 00:00:00.0001401 ms
+entry #538 addet to grid by 00:00:00.0000796 ms
+
+entry #539 created by 00:00:00.0001379 ms
+entry #539 addet to grid by 00:00:00.0000897 ms
+
+entry #540 created by 00:00:00.0001182 ms
+entry #540 addet to grid by 00:00:00.0000930 ms
+
+entry #541 created by 00:00:00.0001284 ms
+entry #541 addet to grid by 00:00:00.0000852 ms
+
+entry #542 created by 00:00:00.0001388 ms
+entry #542 addet to grid by 00:00:00.0000883 ms
+
+entry #543 created by 00:00:00.0001334 ms
+entry #543 addet to grid by 00:00:00.0000685 ms
+
+entry #544 created by 00:00:00.0009906 ms
+entry #544 addet to grid by 00:00:00.0000860 ms
+
+entry #545 created by 00:00:00.0001462 ms
+entry #545 addet to grid by 00:00:00.0001339 ms
+
+entry #546 created by 00:00:00.0001332 ms
+entry #546 addet to grid by 00:00:00.0000681 ms
+
+entry #547 created by 00:00:00.0001022 ms
+entry #547 addet to grid by 00:00:00.0000577 ms
+
+entry #548 created by 00:00:00.0001035 ms
+entry #548 addet to grid by 00:00:00.0000606 ms
+
+entry #549 created by 00:00:00.0001625 ms
+entry #549 addet to grid by 00:00:00.0001092 ms
+
+entry #550 created by 00:00:00.0001346 ms
+entry #550 addet to grid by 00:00:00.0001097 ms
+
+entry #551 created by 00:00:00.0001559 ms
+entry #551 addet to grid by 00:00:00.0000820 ms
+
+entry #552 created by 00:00:00.0001056 ms
+entry #552 addet to grid by 00:00:00.0000716 ms
+
+entry #553 created by 00:00:00.0001024 ms
+entry #553 addet to grid by 00:00:00.0000603 ms
+
+entry #554 created by 00:00:00.0000931 ms
+entry #554 addet to grid by 00:00:00.0000616 ms
+
+entry #555 created by 00:00:00.0000809 ms
+entry #555 addet to grid by 00:00:00.0000823 ms
+
+entry #556 created by 00:00:00.0001215 ms
+entry #556 addet to grid by 00:00:00.0000838 ms
+
+entry #557 created by 00:00:00.0001904 ms
+entry #557 addet to grid by 00:00:00.0000668 ms
+
+entry #558 created by 00:00:00.0001062 ms
+entry #558 addet to grid by 00:00:00.0000672 ms
+
+entry #559 created by 00:00:00.0000945 ms
+entry #559 addet to grid by 00:00:00.0000778 ms
+
+entry #560 created by 00:00:00.0001869 ms
+entry #560 addet to grid by 00:00:00.0000808 ms
+
+entry #561 created by 00:00:00.0001191 ms
+entry #561 addet to grid by 00:00:00.0000737 ms
+
+entry #562 created by 00:00:00.0001425 ms
+entry #562 addet to grid by 00:00:00.0000795 ms
+
+entry #563 created by 00:00:00.0001096 ms
+entry #563 addet to grid by 00:00:00.0000763 ms
+
+entry #564 created by 00:00:00.0000941 ms
+entry #564 addet to grid by 00:00:00.0000622 ms
+
+entry #565 created by 00:00:00.0001034 ms
+entry #565 addet to grid by 00:00:00.0000663 ms
+
+entry #566 created by 00:00:00.0000863 ms
+entry #566 addet to grid by 00:00:00.0000524 ms
+
+entry #567 created by 00:00:00.0000984 ms
+entry #567 addet to grid by 00:00:00.0000629 ms
+
+entry #568 created by 00:00:00.0002048 ms
+entry #568 addet to grid by 00:00:00.0000766 ms
+
+entry #569 created by 00:00:00.0001459 ms
+entry #569 addet to grid by 00:00:00.0000760 ms
+
+entry #570 created by 00:00:00.0001085 ms
+entry #570 addet to grid by 00:00:00.0000879 ms
+
+entry #571 created by 00:00:00.0001303 ms
+entry #571 addet to grid by 00:00:00.0000765 ms
+
+entry #572 created by 00:00:00.0001119 ms
+entry #572 addet to grid by 00:00:00.0000677 ms
+
+entry #573 created by 00:00:00.0001031 ms
+entry #573 addet to grid by 00:00:00.0000613 ms
+
+entry #574 created by 00:00:00.0000964 ms
+entry #574 addet to grid by 00:00:00.0000623 ms
+
+entry #575 created by 00:00:00.0000916 ms
+entry #575 addet to grid by 00:00:00.0000550 ms
+
+entry #576 created by 00:00:00.0000864 ms
+entry #576 addet to grid by 00:00:00.0000833 ms
+
+entry #577 created by 00:00:00.0001692 ms
+entry #577 addet to grid by 00:00:00.0000817 ms
+
+entry #578 created by 00:00:00.0001262 ms
+entry #578 addet to grid by 00:00:00.0000831 ms
+
+entry #579 created by 00:00:00.0001211 ms
+entry #579 addet to grid by 00:00:00.0000654 ms
+
+entry #580 created by 00:00:00.0000880 ms
+entry #580 addet to grid by 00:00:00.0000906 ms
+
+entry #581 created by 00:00:00.0001260 ms
+entry #581 addet to grid by 00:00:00.0000787 ms
+
+entry #582 created by 00:00:00.0000985 ms
+entry #582 addet to grid by 00:00:00.0000611 ms
+
+entry #583 created by 00:00:00.0001407 ms
+entry #583 addet to grid by 00:00:00.0000795 ms
+
+entry #584 created by 00:00:00.0001071 ms
+entry #584 addet to grid by 00:00:00.0000880 ms
+
+entry #585 created by 00:00:00.0001397 ms
+entry #585 addet to grid by 00:00:00.0000988 ms
+
+entry #586 created by 00:00:00.0001252 ms
+entry #586 addet to grid by 00:00:00.0000838 ms
+
+entry #587 created by 00:00:00.0001400 ms
+entry #587 addet to grid by 00:00:00.0000900 ms
+
+entry #588 created by 00:00:00.0001318 ms
+entry #588 addet to grid by 00:00:00.0000927 ms
+
+entry #589 created by 00:00:00.0001426 ms
+entry #589 addet to grid by 00:00:00.0000834 ms
+
+entry #590 created by 00:00:00.0001264 ms
+entry #590 addet to grid by 00:00:00.0000711 ms
+
+entry #591 created by 00:00:00.0000939 ms
+entry #591 addet to grid by 00:00:00.0000801 ms
+
+entry #592 created by 00:00:00.0001263 ms
+entry #592 addet to grid by 00:00:00.0000985 ms
+
+entry #593 created by 00:00:00.0001849 ms
+entry #593 addet to grid by 00:00:00.0000760 ms
+
+entry #594 created by 00:00:00.0001534 ms
+entry #594 addet to grid by 00:00:00.0000852 ms
+
+entry #595 created by 00:00:00.0001462 ms
+entry #595 addet to grid by 00:00:00.0000756 ms
+
+entry #596 created by 00:00:00.0001023 ms
+entry #596 addet to grid by 00:00:00.0001032 ms
+
+entry #597 created by 00:00:00.0001545 ms
+entry #597 addet to grid by 00:00:00.0000986 ms
+
+entry #598 created by 00:00:00.0001257 ms
+entry #598 addet to grid by 00:00:00.0001049 ms
+
+entry #599 created by 00:00:00.0001334 ms
+entry #599 addet to grid by 00:00:00.0000835 ms
+
+entry #600 created by 00:00:00.0001051 ms
+entry #600 addet to grid by 00:00:00.0000861 ms
+
+entry #601 created by 00:00:00.0001405 ms
+entry #601 addet to grid by 00:00:00.0000899 ms
+
+entry #602 created by 00:00:00.0009713 ms
+entry #602 addet to grid by 00:00:00.0000741 ms
+
+entry #603 created by 00:00:00.0001903 ms
+entry #603 addet to grid by 00:00:00.0000764 ms
+
+entry #604 created by 00:00:00.0000979 ms
+entry #604 addet to grid by 00:00:00.0000904 ms
+
+entry #605 created by 00:00:00.0001364 ms
+entry #605 addet to grid by 00:00:00.0000774 ms
+
+entry #606 created by 00:00:00.0001083 ms
+entry #606 addet to grid by 00:00:00.0001081 ms
+
+entry #607 created by 00:00:00.0001235 ms
+entry #607 addet to grid by 00:00:00.0001543 ms
+
+entry #608 created by 00:00:00.0001706 ms
+entry #608 addet to grid by 00:00:00.0000895 ms
+
+entry #609 created by 00:00:00.0001134 ms
+entry #609 addet to grid by 00:00:00.0000947 ms
+
+entry #610 created by 00:00:00.0001738 ms
+entry #610 addet to grid by 00:00:00.0001183 ms
+
+entry #611 created by 00:00:00.0001770 ms
+entry #611 addet to grid by 00:00:00.0000860 ms
+
+entry #612 created by 00:00:00.0001119 ms
+entry #612 addet to grid by 00:00:00.0000764 ms
+
+entry #613 created by 00:00:00.0001354 ms
+entry #613 addet to grid by 00:00:00.0000947 ms
+
+entry #614 created by 00:00:00.0000972 ms
+entry #614 addet to grid by 00:00:00.0000784 ms
+
+entry #615 created by 00:00:00.0000934 ms
+entry #615 addet to grid by 00:00:00.0000661 ms
+
+entry #616 created by 00:00:00.0000839 ms
+entry #616 addet to grid by 00:00:00.0000653 ms
+
+entry #617 created by 00:00:00.0001161 ms
+entry #617 addet to grid by 00:00:00.0000724 ms
+
+entry #618 created by 00:00:00.0001545 ms
+entry #618 addet to grid by 00:00:00.0000853 ms
+
+entry #619 created by 00:00:00.0001410 ms
+entry #619 addet to grid by 00:00:00.0000840 ms
+
+entry #620 created by 00:00:00.0001388 ms
+entry #620 addet to grid by 00:00:00.0001179 ms
+
+entry #621 created by 00:00:00.0001252 ms
+entry #621 addet to grid by 00:00:00.0000977 ms
+
+entry #622 created by 00:00:00.0000971 ms
+entry #622 addet to grid by 00:00:00.0001157 ms
+
+entry #623 created by 00:00:00.0001333 ms
+entry #623 addet to grid by 00:00:00.0001400 ms
+
+entry #624 created by 00:00:00.0001184 ms
+entry #624 addet to grid by 00:00:00.0000736 ms
+
+entry #625 created by 00:00:00.0000914 ms
+entry #625 addet to grid by 00:00:00.0000673 ms
+
+entry #626 created by 00:00:00.0001397 ms
+entry #626 addet to grid by 00:00:00.0001098 ms
+
+entry #627 created by 00:00:00.0001196 ms
+entry #627 addet to grid by 00:00:00.0000827 ms
+
+entry #628 created by 00:00:00.0000968 ms
+entry #628 addet to grid by 00:00:00.0000769 ms
+
+entry #629 created by 00:00:00.0001005 ms
+entry #629 addet to grid by 00:00:00.0000993 ms
+
+entry #630 created by 00:00:00.0001209 ms
+entry #630 addet to grid by 00:00:00.0000945 ms
+
+entry #631 created by 00:00:00.0001170 ms
+entry #631 addet to grid by 00:00:00.0000737 ms
+
+entry #632 created by 00:00:00.0001209 ms
+entry #632 addet to grid by 00:00:00.0000836 ms
+
+entry #633 created by 00:00:00.0000992 ms
+entry #633 addet to grid by 00:00:00.0000720 ms
+
+entry #634 created by 00:00:00.0001287 ms
+entry #634 addet to grid by 00:00:00.0000836 ms
+
+entry #635 created by 00:00:00.0001112 ms
+entry #635 addet to grid by 00:00:00.0000782 ms
+
+entry #636 created by 00:00:00.0001017 ms
+entry #636 addet to grid by 00:00:00.0000682 ms
+
+entry #637 created by 00:00:00.0000887 ms
+entry #637 addet to grid by 00:00:00.0000930 ms
+
+entry #638 created by 00:00:00.0001152 ms
+entry #638 addet to grid by 00:00:00.0000636 ms
+
+entry #639 created by 00:00:00.0000949 ms
+entry #639 addet to grid by 00:00:00.0000993 ms
+
+entry #640 created by 00:00:00.0002088 ms
+entry #640 addet to grid by 00:00:00.0000800 ms
+
+entry #641 created by 00:00:00.0000999 ms
+entry #641 addet to grid by 00:00:00.0001310 ms
+
+entry #642 created by 00:00:00.0000994 ms
+entry #642 addet to grid by 00:00:00.0000995 ms
+
+entry #643 created by 00:00:00.0001868 ms
+entry #643 addet to grid by 00:00:00.0001185 ms
+
+entry #644 created by 00:00:00.0001270 ms
+entry #644 addet to grid by 00:00:00.0000842 ms
+
+entry #645 created by 00:00:00.0001078 ms
+entry #645 addet to grid by 00:00:00.0000912 ms
+
+entry #646 created by 00:00:00.0001278 ms
+entry #646 addet to grid by 00:00:00.0000807 ms
+
+entry #647 created by 00:00:00.0001036 ms
+entry #647 addet to grid by 00:00:00.0000692 ms
+
+entry #648 created by 00:00:00.0001331 ms
+entry #648 addet to grid by 00:00:00.0001039 ms
+
+entry #649 created by 00:00:00.0001285 ms
+entry #649 addet to grid by 00:00:00.0000897 ms
+
+entry #650 created by 00:00:00.0000914 ms
+entry #650 addet to grid by 00:00:00.0000705 ms
+
+entry #651 created by 00:00:00.0000967 ms
+entry #651 addet to grid by 00:00:00.0000797 ms
+
+entry #652 created by 00:00:00.0000896 ms
+entry #652 addet to grid by 00:00:00.0000708 ms
+
+entry #653 created by 00:00:00.0000951 ms
+entry #653 addet to grid by 00:00:00.0000732 ms
+
+entry #654 created by 00:00:00.0000859 ms
+entry #654 addet to grid by 00:00:00.0000912 ms
+
+entry #655 created by 00:00:00.0001177 ms
+entry #655 addet to grid by 00:00:00.0000908 ms
+
+entry #656 created by 00:00:00.0001143 ms
+entry #656 addet to grid by 00:00:00.0000882 ms
+
+entry #657 created by 00:00:00.0001069 ms
+entry #657 addet to grid by 00:00:00.0000818 ms
+
+entry #658 created by 00:00:00.0001249 ms
+entry #658 addet to grid by 00:00:00.0000904 ms
+
+entry #659 created by 00:00:00.0001516 ms
+entry #659 addet to grid by 00:00:00.0000707 ms
+
+entry #660 created by 00:00:00.0001204 ms
+entry #660 addet to grid by 00:00:00.0000867 ms
+
+entry #661 created by 00:00:00.0000973 ms
+entry #661 addet to grid by 00:00:00.0000656 ms
+
+entry #662 created by 00:00:00.0000844 ms
+entry #662 addet to grid by 00:00:00.0000811 ms
+
+entry #663 created by 00:00:00.0001022 ms
+entry #663 addet to grid by 00:00:00.0000609 ms
+
+entry #664 created by 00:00:00.0001295 ms
+entry #664 addet to grid by 00:00:00.0000881 ms
+
+entry #665 created by 00:00:00.0001337 ms
+entry #665 addet to grid by 00:00:00.0000740 ms
+
+entry #666 created by 00:00:00.0001814 ms
+entry #666 addet to grid by 00:00:00.0000757 ms
+
+entry #667 created by 00:00:00.0000979 ms
+entry #667 addet to grid by 00:00:00.0009015 ms
+
+entry #668 created by 00:00:00.0000880 ms
+entry #668 addet to grid by 00:00:00.0001001 ms
+
+entry #669 created by 00:00:00.0001433 ms
+entry #669 addet to grid by 00:00:00.0000813 ms
+
+entry #670 created by 00:00:00.0001041 ms
+entry #670 addet to grid by 00:00:00.0000680 ms
+
+entry #671 created by 00:00:00.0000844 ms
+entry #671 addet to grid by 00:00:00.0000626 ms
+
+entry #672 created by 00:00:00.0000846 ms
+entry #672 addet to grid by 00:00:00.0000650 ms
+
+entry #673 created by 00:00:00.0000863 ms
+entry #673 addet to grid by 00:00:00.0000998 ms
+
+entry #674 created by 00:00:00.0001045 ms
+entry #674 addet to grid by 00:00:00.0000663 ms
+
+entry #675 created by 00:00:00.0000787 ms
+entry #675 addet to grid by 00:00:00.0000591 ms
+
+entry #676 created by 00:00:00.0234902 ms
+entry #676 addet to grid by 00:00:00.0001052 ms
+
+entry #677 created by 00:00:00.0001598 ms
+entry #677 addet to grid by 00:00:00.0000882 ms
+
+entry #678 created by 00:00:00.0000937 ms
+entry #678 addet to grid by 00:00:00.0000781 ms
+
+entry #679 created by 00:00:00.0001076 ms
+entry #679 addet to grid by 00:00:00.0000750 ms
+
+entry #680 created by 00:00:00.0000618 ms
+entry #680 addet to grid by 00:00:00.0000478 ms
+
+entry #681 created by 00:00:00.0000999 ms
+entry #681 addet to grid by 00:00:00.0000671 ms
+
+entry #682 created by 00:00:00.0001082 ms
+entry #682 addet to grid by 00:00:00.0000713 ms
+
+entry #683 created by 00:00:00.0000945 ms
+entry #683 addet to grid by 00:00:00.0000634 ms
+
+entry #684 created by 00:00:00.0000697 ms
+entry #684 addet to grid by 00:00:00.0000804 ms
+
+entry #685 created by 00:00:00.0000951 ms
+entry #685 addet to grid by 00:00:00.0000839 ms
+
+entry #686 created by 00:00:00.0000916 ms
+entry #686 addet to grid by 00:00:00.0000658 ms
+
+entry #687 created by 00:00:00.0000687 ms
+entry #687 addet to grid by 00:00:00.0000579 ms
+
+entry #688 created by 00:00:00.0001260 ms
+entry #688 addet to grid by 00:00:00.0000639 ms
+
+entry #689 created by 00:00:00.0000723 ms
+entry #689 addet to grid by 00:00:00.0000538 ms
+
+entry #690 created by 00:00:00.0000638 ms
+entry #690 addet to grid by 00:00:00.0000707 ms
+
+entry #691 created by 00:00:00.0000887 ms
+entry #691 addet to grid by 00:00:00.0000704 ms
+
+entry #692 created by 00:00:00.0001282 ms
+entry #692 addet to grid by 00:00:00.0000557 ms
+
+entry #693 created by 00:00:00.0000729 ms
+entry #693 addet to grid by 00:00:00.0000507 ms
+
+entry #694 created by 00:00:00.0000862 ms
+entry #694 addet to grid by 00:00:00.0000695 ms
+
+entry #695 created by 00:00:00.0000875 ms
+entry #695 addet to grid by 00:00:00.0000775 ms
+
+entry #696 created by 00:00:00.0000858 ms
+entry #696 addet to grid by 00:00:00.0000622 ms
+
+entry #697 created by 00:00:00.0000788 ms
+entry #697 addet to grid by 00:00:00.0000674 ms
+
+entry #698 created by 00:00:00.0000882 ms
+entry #698 addet to grid by 00:00:00.0000592 ms
+
+entry #699 created by 00:00:00.0000672 ms
+entry #699 addet to grid by 00:00:00.0000530 ms
+
+entry #700 created by 00:00:00.0000633 ms
+entry #700 addet to grid by 00:00:00.0000699 ms
+
+entry #701 created by 00:00:00.0000854 ms
+entry #701 addet to grid by 00:00:00.0000557 ms
+
+entry #702 created by 00:00:00.0000654 ms
+entry #702 addet to grid by 00:00:00.0000504 ms
+
+entry #703 created by 00:00:00.0000585 ms
+entry #703 addet to grid by 00:00:00.0000729 ms
+
+entry #704 created by 00:00:00.0001115 ms
+entry #704 addet to grid by 00:00:00.0000892 ms
+
+entry #705 created by 00:00:00.0000951 ms
+entry #705 addet to grid by 00:00:00.0000720 ms
+
+entry #706 created by 00:00:00.0001104 ms
+entry #706 addet to grid by 00:00:00.0000695 ms
+
+entry #707 created by 00:00:00.0000800 ms
+entry #707 addet to grid by 00:00:00.0000655 ms
+
+entry #708 created by 00:00:00.0000776 ms
+entry #708 addet to grid by 00:00:00.0000627 ms
+
+entry #709 created by 00:00:00.0001249 ms
+entry #709 addet to grid by 00:00:00.0000681 ms
+
+entry #710 created by 00:00:00.0000782 ms
+entry #710 addet to grid by 00:00:00.0000838 ms
+
+entry #711 created by 00:00:00.0001032 ms
+entry #711 addet to grid by 00:00:00.0000690 ms
+
+entry #712 created by 00:00:00.0000852 ms
+entry #712 addet to grid by 00:00:00.0000621 ms
+
+entry #713 created by 00:00:00.0001022 ms
+entry #713 addet to grid by 00:00:00.0000660 ms
+
+entry #714 created by 00:00:00.0000749 ms
+entry #714 addet to grid by 00:00:00.0000579 ms
+
+entry #715 created by 00:00:00.0000665 ms
+entry #715 addet to grid by 00:00:00.0000578 ms
+
+entry #716 created by 00:00:00.0000721 ms
+entry #716 addet to grid by 00:00:00.0000605 ms
+
+entry #717 created by 00:00:00.0000637 ms
+entry #717 addet to grid by 00:00:00.0000530 ms
+
+entry #718 created by 00:00:00.0000597 ms
+entry #718 addet to grid by 00:00:00.0000737 ms
+
+entry #719 created by 00:00:00.0000872 ms
+entry #719 addet to grid by 00:00:00.0000778 ms
+
+entry #720 created by 00:00:00.0000933 ms
+entry #720 addet to grid by 00:00:00.0000575 ms
+
+entry #721 created by 00:00:00.0000716 ms
+entry #721 addet to grid by 00:00:00.0000601 ms
+
+entry #722 created by 00:00:00.0000743 ms
+entry #722 addet to grid by 00:00:00.0000749 ms
+
+entry #723 created by 00:00:00.0001255 ms
+entry #723 addet to grid by 00:00:00.0000931 ms
+
+entry #724 created by 00:00:00.0001004 ms
+entry #724 addet to grid by 00:00:00.0000817 ms
+
+entry #725 created by 00:00:00.0001570 ms
+entry #725 addet to grid by 00:00:00.0000702 ms
+
+entry #726 created by 00:00:00.0000811 ms
+entry #726 addet to grid by 00:00:00.0000646 ms
+
+entry #727 created by 00:00:00.0000716 ms
+entry #727 addet to grid by 00:00:00.0000639 ms
+
+entry #728 created by 00:00:00.0000755 ms
+entry #728 addet to grid by 00:00:00.0000546 ms
+
+entry #729 created by 00:00:00.0000660 ms
+entry #729 addet to grid by 00:00:00.0000531 ms
+
+entry #730 created by 00:00:00.0000945 ms
+entry #730 addet to grid by 00:00:00.0000641 ms
+
+entry #731 created by 00:00:00.0000768 ms
+entry #731 addet to grid by 00:00:00.0000783 ms
+
+entry #732 created by 00:00:00.0000999 ms
+entry #732 addet to grid by 00:00:00.0000617 ms
+
+entry #733 created by 00:00:00.0000742 ms
+entry #733 addet to grid by 00:00:00.0000888 ms
+
+entry #734 created by 00:00:00.0001103 ms
+entry #734 addet to grid by 00:00:00.0000645 ms
+
+entry #735 created by 00:00:00.0000737 ms
+entry #735 addet to grid by 00:00:00.0000828 ms
+
+entry #736 created by 00:00:00.0000870 ms
+entry #736 addet to grid by 00:00:00.0000579 ms
+
+entry #737 created by 00:00:00.0001136 ms
+entry #737 addet to grid by 00:00:00.0000851 ms
+
+entry #738 created by 00:00:00.0001309 ms
+entry #738 addet to grid by 00:00:00.0000799 ms
+
+entry #739 created by 00:00:00.0001117 ms
+entry #739 addet to grid by 00:00:00.0000847 ms
+
+entry #740 created by 00:00:00.0001043 ms
+entry #740 addet to grid by 00:00:00.0000827 ms
+
+entry #741 created by 00:00:00.0000808 ms
+entry #741 addet to grid by 00:00:00.0000709 ms
+
+entry #742 created by 00:00:00.0001384 ms
+entry #742 addet to grid by 00:00:00.0000586 ms
+
+entry #743 created by 00:00:00.0001038 ms
+entry #743 addet to grid by 00:00:00.0000791 ms
+
+entry #744 created by 00:00:00.0000861 ms
+entry #744 addet to grid by 00:00:00.0000869 ms
+
+entry #745 created by 00:00:00.0001179 ms
+entry #745 addet to grid by 00:00:00.0000853 ms
+
+entry #746 created by 00:00:00.0000931 ms
+entry #746 addet to grid by 00:00:00.0000632 ms
+
+entry #747 created by 00:00:00.0000726 ms
+entry #747 addet to grid by 00:00:00.0000616 ms
+
+entry #748 created by 00:00:00.0000768 ms
+entry #748 addet to grid by 00:00:00.0000870 ms
+
+entry #749 created by 00:00:00.0001011 ms
+entry #749 addet to grid by 00:00:00.0000763 ms
+
+entry #750 created by 00:00:00.0000918 ms
+entry #750 addet to grid by 00:00:00.0000822 ms
+
+entry #751 created by 00:00:00.0000978 ms
+entry #751 addet to grid by 00:00:00.0000675 ms
+
+entry #752 created by 00:00:00.0000864 ms
+entry #752 addet to grid by 00:00:00.0000804 ms
+
+entry #753 created by 00:00:00.0000972 ms
+entry #753 addet to grid by 00:00:00.0000660 ms
+
+entry #754 created by 00:00:00.0000737 ms
+entry #754 addet to grid by 00:00:00.0000600 ms
+
+entry #755 created by 00:00:00.0000703 ms
+entry #755 addet to grid by 00:00:00.0000818 ms
+
+entry #756 created by 00:00:00.0001823 ms
+entry #756 addet to grid by 00:00:00.0000782 ms
+
+entry #757 created by 00:00:00.0000872 ms
+entry #757 addet to grid by 00:00:00.0000664 ms
+
+entry #758 created by 00:00:00.0001309 ms
+entry #758 addet to grid by 00:00:00.0000649 ms
+
+entry #759 created by 00:00:00.0000742 ms
+entry #759 addet to grid by 00:00:00.0000648 ms
+
+entry #760 created by 00:00:00.0000737 ms
+entry #760 addet to grid by 00:00:00.0000843 ms
+
+entry #761 created by 00:00:00.0001133 ms
+entry #761 addet to grid by 00:00:00.0000741 ms
+
+entry #762 created by 00:00:00.0000825 ms
+entry #762 addet to grid by 00:00:00.0000758 ms
+
+entry #763 created by 00:00:00.0001037 ms
+entry #763 addet to grid by 00:00:00.0000749 ms
+
+entry #764 created by 00:00:00.0000724 ms
+entry #764 addet to grid by 00:00:00.0000638 ms
+
+entry #765 created by 00:00:00.0000683 ms
+entry #765 addet to grid by 00:00:00.0000869 ms
+
+entry #766 created by 00:00:00.0001014 ms
+entry #766 addet to grid by 00:00:00.0000835 ms
+
+entry #767 created by 00:00:00.0001050 ms
+entry #767 addet to grid by 00:00:00.0000758 ms
+
+entry #768 created by 00:00:00.0000852 ms
+entry #768 addet to grid by 00:00:00.0000656 ms
+
+entry #769 created by 00:00:00.0001090 ms
+entry #769 addet to grid by 00:00:00.0000982 ms
+
+entry #770 created by 00:00:00.0001087 ms
+entry #770 addet to grid by 00:00:00.0000754 ms
+
+entry #771 created by 00:00:00.0000941 ms
+entry #771 addet to grid by 00:00:00.0000698 ms
+
+entry #772 created by 00:00:00.0001048 ms
+entry #772 addet to grid by 00:00:00.0000872 ms
+
+entry #773 created by 00:00:00.0000995 ms
+entry #773 addet to grid by 00:00:00.0000670 ms
+
+entry #774 created by 00:00:00.0000757 ms
+entry #774 addet to grid by 00:00:00.0000656 ms
+
+entry #775 created by 00:00:00.0001338 ms
+entry #775 addet to grid by 00:00:00.0000654 ms
+
+entry #776 created by 00:00:00.0000691 ms
+entry #776 addet to grid by 00:00:00.0000615 ms
+
+entry #777 created by 00:00:00.0000686 ms
+entry #777 addet to grid by 00:00:00.0000602 ms
+
+entry #778 created by 00:00:00.0000650 ms
+entry #778 addet to grid by 00:00:00.0000607 ms
+
+entry #779 created by 00:00:00.0000670 ms
+entry #779 addet to grid by 00:00:00.0000607 ms
+
+entry #780 created by 00:00:00.0001096 ms
+entry #780 addet to grid by 00:00:00.0000781 ms
+
+entry #781 created by 00:00:00.0001072 ms
+entry #781 addet to grid by 00:00:00.0000816 ms
+
+entry #782 created by 00:00:00.0000866 ms
+entry #782 addet to grid by 00:00:00.0000873 ms
+
+entry #783 created by 00:00:00.0001072 ms
+entry #783 addet to grid by 00:00:00.0000934 ms
+
+entry #784 created by 00:00:00.0001051 ms
+entry #784 addet to grid by 00:00:00.0000848 ms
+
+entry #785 created by 00:00:00.0001065 ms
+entry #785 addet to grid by 00:00:00.0000727 ms
+
+entry #786 created by 00:00:00.0001095 ms
+entry #786 addet to grid by 00:00:00.0000696 ms
+
+entry #787 created by 00:00:00.0001018 ms
+entry #787 addet to grid by 00:00:00.0000737 ms
+
+entry #788 created by 00:00:00.0003694 ms
+entry #788 addet to grid by 00:00:00.0000721 ms
+
+entry #789 created by 00:00:00.0000832 ms
+entry #789 addet to grid by 00:00:00.0000659 ms
+
+entry #790 created by 00:00:00.0000720 ms
+entry #790 addet to grid by 00:00:00.0000609 ms
+
+entry #791 created by 00:00:00.0001699 ms
+entry #791 addet to grid by 00:00:00.0000847 ms
+
+entry #792 created by 00:00:00.0001108 ms
+entry #792 addet to grid by 00:00:00.0000840 ms
+
+entry #793 created by 00:00:00.0001094 ms
+entry #793 addet to grid by 00:00:00.0000691 ms
+
+entry #794 created by 00:00:00.0000769 ms
+entry #794 addet to grid by 00:00:00.0000835 ms
+
+entry #795 created by 00:00:00.0001148 ms
+entry #795 addet to grid by 00:00:00.0000742 ms
+
+entry #796 created by 00:00:00.0000835 ms
+entry #796 addet to grid by 00:00:00.0000643 ms
+
+entry #797 created by 00:00:00.0000759 ms
+entry #797 addet to grid by 00:00:00.0000670 ms
+
+entry #798 created by 00:00:00.0000706 ms
+entry #798 addet to grid by 00:00:00.0000612 ms
+
+entry #799 created by 00:00:00.0000770 ms
+entry #799 addet to grid by 00:00:00.0000879 ms
+
+entry #800 created by 00:00:00.0001023 ms
+entry #800 addet to grid by 00:00:00.0000733 ms
+
+entry #801 created by 00:00:00.0000805 ms
+entry #801 addet to grid by 00:00:00.0000930 ms
+
+entry #802 created by 00:00:00.0000901 ms
+entry #802 addet to grid by 00:00:00.0000630 ms
+
+entry #803 created by 00:00:00.0000758 ms
+entry #803 addet to grid by 00:00:00.0000702 ms
+
+entry #804 created by 00:00:00.0000729 ms
+entry #804 addet to grid by 00:00:00.0000654 ms
+
+entry #805 created by 00:00:00.0000689 ms
+entry #805 addet to grid by 00:00:00.0000899 ms
+
+entry #806 created by 00:00:00.0001019 ms
+entry #806 addet to grid by 00:00:00.0000860 ms
+
+entry #807 created by 00:00:00.0001126 ms
+entry #807 addet to grid by 00:00:00.0000705 ms
+
+entry #808 created by 00:00:00.0001523 ms
+entry #808 addet to grid by 00:00:00.0000866 ms
+
+entry #809 created by 00:00:00.0001102 ms
+entry #809 addet to grid by 00:00:00.0000745 ms
+
+entry #810 created by 00:00:00.0000992 ms
+entry #810 addet to grid by 00:00:00.0000755 ms
+
+entry #811 created by 00:00:00.0000759 ms
+entry #811 addet to grid by 00:00:00.0000706 ms
+
+entry #812 created by 00:00:00.0001083 ms
+entry #812 addet to grid by 00:00:00.0000846 ms
+
+entry #813 created by 00:00:00.0001086 ms
+entry #813 addet to grid by 00:00:00.0000803 ms
+
+entry #814 created by 00:00:00.0001072 ms
+entry #814 addet to grid by 00:00:00.0001034 ms
+
+entry #815 created by 00:00:00.0001047 ms
+entry #815 addet to grid by 00:00:00.0000966 ms
+
+entry #816 created by 00:00:00.0001121 ms
+entry #816 addet to grid by 00:00:00.0000831 ms
+
+entry #817 created by 00:00:00.0000915 ms
+entry #817 addet to grid by 00:00:00.0000744 ms
+
+entry #818 created by 00:00:00.0000757 ms
+entry #818 addet to grid by 00:00:00.0000690 ms
+
+entry #819 created by 00:00:00.0000745 ms
+entry #819 addet to grid by 00:00:00.0000757 ms
+
+entry #820 created by 00:00:00.0000885 ms
+entry #820 addet to grid by 00:00:00.0000743 ms
+
+entry #821 created by 00:00:00.0001716 ms
+entry #821 addet to grid by 00:00:00.0001075 ms
+
+entry #822 created by 00:00:00.0001258 ms
+entry #822 addet to grid by 00:00:00.0000743 ms
+
+entry #823 created by 00:00:00.0000767 ms
+entry #823 addet to grid by 00:00:00.0000685 ms
+
+entry #824 created by 00:00:00.0001323 ms
+entry #824 addet to grid by 00:00:00.0000609 ms
+
+entry #825 created by 00:00:00.0000827 ms
+entry #825 addet to grid by 00:00:00.0000597 ms
+
+entry #826 created by 00:00:00.0001077 ms
+entry #826 addet to grid by 00:00:00.0000857 ms
+
+entry #827 created by 00:00:00.0000970 ms
+entry #827 addet to grid by 00:00:00.0000986 ms
+
+entry #828 created by 00:00:00.0001087 ms
+entry #828 addet to grid by 00:00:00.0000804 ms
+
+entry #829 created by 00:00:00.0000838 ms
+entry #829 addet to grid by 00:00:00.0000992 ms
+
+entry #830 created by 00:00:00.0001247 ms
+entry #830 addet to grid by 00:00:00.0000840 ms
+
+entry #831 created by 00:00:00.0000889 ms
+entry #831 addet to grid by 00:00:00.0000744 ms
+
+entry #832 created by 00:00:00.0001222 ms
+entry #832 addet to grid by 00:00:00.0000870 ms
+
+entry #833 created by 00:00:00.0001035 ms
+entry #833 addet to grid by 00:00:00.0000973 ms
+
+entry #834 created by 00:00:00.0000795 ms
+entry #834 addet to grid by 00:00:00.0000833 ms
+
+entry #835 created by 00:00:00.0001095 ms
+entry #835 addet to grid by 00:00:00.0000880 ms
+
+entry #836 created by 00:00:00.0000984 ms
+entry #836 addet to grid by 00:00:00.0000784 ms
+
+entry #837 created by 00:00:00.0001769 ms
+entry #837 addet to grid by 00:00:00.0000824 ms
+
+entry #838 created by 00:00:00.0000966 ms
+entry #838 addet to grid by 00:00:00.0000678 ms
+
+entry #839 created by 00:00:00.0000847 ms
+entry #839 addet to grid by 00:00:00.0000667 ms
+
+entry #840 created by 00:00:00.0000741 ms
+entry #840 addet to grid by 00:00:00.0000630 ms
+
+entry #841 created by 00:00:00.0001429 ms
+entry #841 addet to grid by 00:00:00.0000676 ms
+
+entry #842 created by 00:00:00.0000646 ms
+entry #842 addet to grid by 00:00:00.0000864 ms
+
+entry #843 created by 00:00:00.0001046 ms
+entry #843 addet to grid by 00:00:00.0000881 ms
+
+entry #844 created by 00:00:00.0001013 ms
+entry #844 addet to grid by 00:00:00.0000832 ms
+
+entry #845 created by 00:00:00.0001009 ms
+entry #845 addet to grid by 00:00:00.0000799 ms
+
+entry #846 created by 00:00:00.0000906 ms
+entry #846 addet to grid by 00:00:00.0000617 ms
+
+entry #847 created by 00:00:00.0000672 ms
+entry #847 addet to grid by 00:00:00.0001539 ms
+
+entry #848 created by 00:00:00.0001240 ms
+entry #848 addet to grid by 00:00:00.0000819 ms
+
+entry #849 created by 00:00:00.0001834 ms
+entry #849 addet to grid by 00:00:00.0000776 ms
+
+entry #850 created by 00:00:00.0000697 ms
+entry #850 addet to grid by 00:00:00.0000699 ms
+
+entry #851 created by 00:00:00.0000642 ms
+entry #851 addet to grid by 00:00:00.0000615 ms
+
+entry #852 created by 00:00:00.0000877 ms
+entry #852 addet to grid by 00:00:00.0000746 ms
+
+entry #853 created by 00:00:00.0000924 ms
+entry #853 addet to grid by 00:00:00.0000597 ms
+
+entry #854 created by 00:00:00.0000989 ms
+entry #854 addet to grid by 00:00:00.0000803 ms
+
+entry #855 created by 00:00:00.0000962 ms
+entry #855 addet to grid by 00:00:00.0000691 ms
+
+entry #856 created by 00:00:00.0000991 ms
+entry #856 addet to grid by 00:00:00.0000766 ms
+
+entry #857 created by 00:00:00.0009870 ms
+entry #857 addet to grid by 00:00:00.0000797 ms
+
+entry #858 created by 00:00:00.0000812 ms
+entry #858 addet to grid by 00:00:00.0000692 ms
+
+entry #859 created by 00:00:00.0000690 ms
+entry #859 addet to grid by 00:00:00.0000702 ms
+
+entry #860 created by 00:00:00.0000614 ms
+entry #860 addet to grid by 00:00:00.0000574 ms
+
+entry #861 created by 00:00:00.0000584 ms
+entry #861 addet to grid by 00:00:00.0000854 ms
+
+entry #862 created by 00:00:00.0000902 ms
+entry #862 addet to grid by 00:00:00.0000658 ms
+
+entry #863 created by 00:00:00.0000649 ms
+entry #863 addet to grid by 00:00:00.0000612 ms
+
+entry #864 created by 00:00:00.0000595 ms
+entry #864 addet to grid by 00:00:00.0000599 ms
+
+entry #865 created by 00:00:00.0000657 ms
+entry #865 addet to grid by 00:00:00.0000769 ms
+
+entry #866 created by 00:00:00.0000579 ms
+entry #866 addet to grid by 00:00:00.0000569 ms
+
+entry #867 created by 00:00:00.0001036 ms
+entry #867 addet to grid by 00:00:00.0000765 ms
+
+entry #868 created by 00:00:00.0000734 ms
+entry #868 addet to grid by 00:00:00.0000732 ms
+
+entry #869 created by 00:00:00.0001069 ms
+entry #869 addet to grid by 00:00:00.0000844 ms
+
+entry #870 created by 00:00:00.0000777 ms
+entry #870 addet to grid by 00:00:00.0000656 ms
+
+entry #871 created by 00:00:00.0000817 ms
+entry #871 addet to grid by 00:00:00.0000869 ms
+
+entry #872 created by 00:00:00.0000936 ms
+entry #872 addet to grid by 00:00:00.0000670 ms
+
+entry #873 created by 00:00:00.0000688 ms
+entry #873 addet to grid by 00:00:00.0000615 ms
+
+entry #874 created by 00:00:00.0001615 ms
+entry #874 addet to grid by 00:00:00.0000865 ms
+
+entry #875 created by 00:00:00.0000912 ms
+entry #875 addet to grid by 00:00:00.0000687 ms
+
+entry #876 created by 00:00:00.0000704 ms
+entry #876 addet to grid by 00:00:00.0000637 ms
+
+entry #877 created by 00:00:00.0000700 ms
+entry #877 addet to grid by 00:00:00.0000606 ms
+
+entry #878 created by 00:00:00.0000624 ms
+entry #878 addet to grid by 00:00:00.0000594 ms
+
+entry #879 created by 00:00:00.0001005 ms
+entry #879 addet to grid by 00:00:00.0000791 ms
+
+entry #880 created by 00:00:00.0000909 ms
+entry #880 addet to grid by 00:00:00.0000749 ms
+
+entry #881 created by 00:00:00.0000942 ms
+entry #881 addet to grid by 00:00:00.0000699 ms
+
+entry #882 created by 00:00:00.0000591 ms
+entry #882 addet to grid by 00:00:00.0000605 ms
+
+entry #883 created by 00:00:00.0000576 ms
+entry #883 addet to grid by 00:00:00.0000905 ms
+
+entry #884 created by 00:00:00.0000928 ms
+entry #884 addet to grid by 00:00:00.0000761 ms
+
+entry #885 created by 00:00:00.0000830 ms
+entry #885 addet to grid by 00:00:00.0000650 ms
+
+entry #886 created by 00:00:00.0000580 ms
+entry #886 addet to grid by 00:00:00.0000557 ms
+
+entry #887 created by 00:00:00.0000942 ms
+entry #887 addet to grid by 00:00:00.0000776 ms
+
+entry #888 created by 00:00:00.0000940 ms
+entry #888 addet to grid by 00:00:00.0000678 ms
+
+entry #889 created by 00:00:00.0009281 ms
+entry #889 addet to grid by 00:00:00.0000755 ms
+
+entry #890 created by 00:00:00.0003472 ms
+entry #890 addet to grid by 00:00:00.0000809 ms
+
+entry #891 created by 00:00:00.0000860 ms
+entry #891 addet to grid by 00:00:00.0000711 ms
+
+entry #892 created by 00:00:00.0000668 ms
+entry #892 addet to grid by 00:00:00.0000773 ms
+
+entry #893 created by 00:00:00.0000974 ms
+entry #893 addet to grid by 00:00:00.0000774 ms
+
+entry #894 created by 00:00:00.0000830 ms
+entry #894 addet to grid by 00:00:00.0000626 ms
+
+entry #895 created by 00:00:00.0000630 ms
+entry #895 addet to grid by 00:00:00.0000784 ms
+
+entry #896 created by 00:00:00.0000884 ms
+entry #896 addet to grid by 00:00:00.0000687 ms
+
+entry #897 created by 00:00:00.0000623 ms
+entry #897 addet to grid by 00:00:00.0000756 ms
+
+entry #898 created by 00:00:00.0000582 ms
+entry #898 addet to grid by 00:00:00.0000566 ms
+
+entry #899 created by 00:00:00.0000577 ms
+entry #899 addet to grid by 00:00:00.0000582 ms
+
+entry #900 created by 00:00:00.0000550 ms
+entry #900 addet to grid by 00:00:00.0000572 ms
+
+entry #901 created by 00:00:00.0000553 ms
+entry #901 addet to grid by 00:00:00.0000563 ms
+
+entry #902 created by 00:00:00.0000520 ms
+entry #902 addet to grid by 00:00:00.0000601 ms
+
+entry #903 created by 00:00:00.0000646 ms
+entry #903 addet to grid by 00:00:00.0000632 ms
+
+entry #904 created by 00:00:00.0000621 ms
+entry #904 addet to grid by 00:00:00.0000732 ms
+
+entry #905 created by 00:00:00.0000914 ms
+entry #905 addet to grid by 00:00:00.0000679 ms
+
+entry #906 created by 00:00:00.0000560 ms
+entry #906 addet to grid by 00:00:00.0000575 ms
+
+entry #907 created by 00:00:00.0002322 ms
+entry #907 addet to grid by 00:00:00.0000977 ms
+
+entry #908 created by 00:00:00.0000917 ms
+entry #908 addet to grid by 00:00:00.0000651 ms
+
+entry #909 created by 00:00:00.0000949 ms
+entry #909 addet to grid by 00:00:00.0000776 ms
+
+entry #910 created by 00:00:00.0000917 ms
+entry #910 addet to grid by 00:00:00.0000806 ms
+
+entry #911 created by 00:00:00.0000884 ms
+entry #911 addet to grid by 00:00:00.0000785 ms
+
+entry #912 created by 00:00:00.0000724 ms
+entry #912 addet to grid by 00:00:00.0001380 ms
+
+entry #913 created by 00:00:00.0000665 ms
+entry #913 addet to grid by 00:00:00.0000629 ms
+
+entry #914 created by 00:00:00.0000927 ms
+entry #914 addet to grid by 00:00:00.0000738 ms
+
+entry #915 created by 00:00:00.0000783 ms
+entry #915 addet to grid by 00:00:00.0000695 ms
+
+entry #916 created by 00:00:00.0000966 ms
+entry #916 addet to grid by 00:00:00.0000690 ms
+
+entry #917 created by 00:00:00.0001144 ms
+entry #917 addet to grid by 00:00:00.0000841 ms
+
+entry #918 created by 00:00:00.0000983 ms
+entry #918 addet to grid by 00:00:00.0000752 ms
+
+entry #919 created by 00:00:00.0000777 ms
+entry #919 addet to grid by 00:00:00.0000693 ms
+
+entry #920 created by 00:00:00.0000647 ms
+entry #920 addet to grid by 00:00:00.0000657 ms
+
+entry #921 created by 00:00:00.0000647 ms
+entry #921 addet to grid by 00:00:00.0000646 ms
+
+entry #922 created by 00:00:00.0001021 ms
+entry #922 addet to grid by 00:00:00.0000834 ms
+
+entry #923 created by 00:00:00.0003766 ms
+entry #923 addet to grid by 00:00:00.0000817 ms
+
+entry #924 created by 00:00:00.0000858 ms
+entry #924 addet to grid by 00:00:00.0000660 ms
+
+entry #925 created by 00:00:00.0000790 ms
+entry #925 addet to grid by 00:00:00.0000671 ms
+
+entry #926 created by 00:00:00.0000648 ms
+entry #926 addet to grid by 00:00:00.0000568 ms
+
+entry #927 created by 00:00:00.0000681 ms
+entry #927 addet to grid by 00:00:00.0000781 ms
+
+entry #928 created by 00:00:00.0000992 ms
+entry #928 addet to grid by 00:00:00.0000604 ms
+
+entry #929 created by 00:00:00.0000636 ms
+entry #929 addet to grid by 00:00:00.0000740 ms
+
+entry #930 created by 00:00:00.0000593 ms
+entry #930 addet to grid by 00:00:00.0000562 ms
+
+entry #931 created by 00:00:00.0000641 ms
+entry #931 addet to grid by 00:00:00.0000611 ms
+
+entry #932 created by 00:00:00.0000573 ms
+entry #932 addet to grid by 00:00:00.0000606 ms
+
+entry #933 created by 00:00:00.0000968 ms
+entry #933 addet to grid by 00:00:00.0000679 ms
+
+entry #934 created by 00:00:00.0000731 ms
+entry #934 addet to grid by 00:00:00.0000679 ms
+
+entry #935 created by 00:00:00.0000941 ms
+entry #935 addet to grid by 00:00:00.0000728 ms
+
+entry #936 created by 00:00:00.0000885 ms
+entry #936 addet to grid by 00:00:00.0000757 ms
+
+entry #937 created by 00:00:00.0000744 ms
+entry #937 addet to grid by 00:00:00.0000821 ms
+
+entry #938 created by 00:00:00.0000934 ms
+entry #938 addet to grid by 00:00:00.0000839 ms
+
+entry #939 created by 00:00:00.0000848 ms
+entry #939 addet to grid by 00:00:00.0000796 ms
+
+entry #940 created by 00:00:00.0003152 ms
+entry #940 addet to grid by 00:00:00.0000804 ms
+
+entry #941 created by 00:00:00.0000702 ms
+entry #941 addet to grid by 00:00:00.0000682 ms
+
+entry #942 created by 00:00:00.0000862 ms
+entry #942 addet to grid by 00:00:00.0000754 ms
+
+entry #943 created by 00:00:00.0000897 ms
+entry #943 addet to grid by 00:00:00.0000872 ms
+
+entry #944 created by 00:00:00.0000693 ms
+entry #944 addet to grid by 00:00:00.0000691 ms
+
+entry #945 created by 00:00:00.0000660 ms
+entry #945 addet to grid by 00:00:00.0000838 ms
+
+entry #946 created by 00:00:00.0000840 ms
+entry #946 addet to grid by 00:00:00.0000732 ms
+
+entry #947 created by 00:00:00.0000722 ms
+entry #947 addet to grid by 00:00:00.0000666 ms
+
+entry #948 created by 00:00:00.0000945 ms
+entry #948 addet to grid by 00:00:00.0000794 ms
+
+entry #949 created by 00:00:00.0000840 ms
+entry #949 addet to grid by 00:00:00.0000748 ms
+
+entry #950 created by 00:00:00.0000787 ms
+entry #950 addet to grid by 00:00:00.0000744 ms
+
+entry #951 created by 00:00:00.0000579 ms
+entry #951 addet to grid by 00:00:00.0000614 ms
+
+entry #952 created by 00:00:00.0000922 ms
+entry #952 addet to grid by 00:00:00.0000833 ms
+
+entry #953 created by 00:00:00.0000935 ms
+entry #953 addet to grid by 00:00:00.0000676 ms
+
+entry #954 created by 00:00:00.0000626 ms
+entry #954 addet to grid by 00:00:00.0000657 ms
+
+entry #955 created by 00:00:00.0000551 ms
+entry #955 addet to grid by 00:00:00.0000578 ms
+
+entry #956 created by 00:00:00.0002697 ms
+entry #956 addet to grid by 00:00:00.0000854 ms
+
+entry #957 created by 00:00:00.0000852 ms
+entry #957 addet to grid by 00:00:00.0000663 ms
+
+entry #958 created by 00:00:00.0000825 ms
+entry #958 addet to grid by 00:00:00.0000861 ms
+
+entry #959 created by 00:00:00.0000838 ms
+entry #959 addet to grid by 00:00:00.0000740 ms
+
+entry #960 created by 00:00:00.0000623 ms
+entry #960 addet to grid by 00:00:00.0000593 ms
+
+entry #961 created by 00:00:00.0000582 ms
+entry #961 addet to grid by 00:00:00.0000748 ms
+
+entry #962 created by 00:00:00.0000582 ms
+entry #962 addet to grid by 00:00:00.0000593 ms
+
+entry #963 created by 00:00:00.0000930 ms
+entry #963 addet to grid by 00:00:00.0000857 ms
+
+entry #964 created by 00:00:00.0000845 ms
+entry #964 addet to grid by 00:00:00.0000791 ms
+
+entry #965 created by 00:00:00.0000694 ms
+entry #965 addet to grid by 00:00:00.0000712 ms
+
+entry #966 created by 00:00:00.0000587 ms
+entry #966 addet to grid by 00:00:00.0000866 ms
+
+entry #967 created by 00:00:00.0009589 ms
+entry #967 addet to grid by 00:00:00.0000998 ms
+
+entry #968 created by 00:00:00.0000851 ms
+entry #968 addet to grid by 00:00:00.0000829 ms
+
+entry #969 created by 00:00:00.0000891 ms
+entry #969 addet to grid by 00:00:00.0000761 ms
+
+entry #970 created by 00:00:00.0000823 ms
+entry #970 addet to grid by 00:00:00.0000688 ms
+
+entry #971 created by 00:00:00.0000581 ms
+entry #971 addet to grid by 00:00:00.0000810 ms
+
+entry #972 created by 00:00:00.0000983 ms
+entry #972 addet to grid by 00:00:00.0000746 ms
+
+entry #973 created by 00:00:00.0002771 ms
+entry #973 addet to grid by 00:00:00.0000667 ms
+
+entry #974 created by 00:00:00.0000559 ms
+entry #974 addet to grid by 00:00:00.0000607 ms
+
+entry #975 created by 00:00:00.0002218 ms
+entry #975 addet to grid by 00:00:00.0000856 ms
+
+entry #976 created by 00:00:00.0000800 ms
+entry #976 addet to grid by 00:00:00.0000656 ms
+
+entry #977 created by 00:00:00.0000699 ms
+entry #977 addet to grid by 00:00:00.0000706 ms
+
+entry #978 created by 00:00:00.0000642 ms
+entry #978 addet to grid by 00:00:00.0000643 ms
+
+entry #979 created by 00:00:00.0000593 ms
+entry #979 addet to grid by 00:00:00.0000665 ms
+
+entry #980 created by 00:00:00.0000892 ms
+entry #980 addet to grid by 00:00:00.0000815 ms
+
+entry #981 created by 00:00:00.0000829 ms
+entry #981 addet to grid by 00:00:00.0000739 ms
+
+entry #982 created by 00:00:00.0000600 ms
+entry #982 addet to grid by 00:00:00.0000602 ms
+
+entry #983 created by 00:00:00.0000573 ms
+entry #983 addet to grid by 00:00:00.0000676 ms
+
+entry #984 created by 00:00:00.0000873 ms
+entry #984 addet to grid by 00:00:00.0000884 ms
+
+entry #985 created by 00:00:00.0000774 ms
+entry #985 addet to grid by 00:00:00.0000656 ms
+
+entry #986 created by 00:00:00.0000637 ms
+entry #986 addet to grid by 00:00:00.0000820 ms
+
+entry #987 created by 00:00:00.0000785 ms
+entry #987 addet to grid by 00:00:00.0000821 ms
+
+entry #988 created by 00:00:00.0000752 ms
+entry #988 addet to grid by 00:00:00.0000700 ms
+
+entry #989 created by 00:00:00.0002931 ms
+entry #989 addet to grid by 00:00:00.0000764 ms
+
+entry #990 created by 00:00:00.0000753 ms
+entry #990 addet to grid by 00:00:00.0000712 ms
+
+entry #991 created by 00:00:00.0000569 ms
+entry #991 addet to grid by 00:00:00.0000603 ms
+
+entry #992 created by 00:00:00.0000775 ms
+entry #992 addet to grid by 00:00:00.0000836 ms
+
+entry #993 created by 00:00:00.0000713 ms
+entry #993 addet to grid by 00:00:00.0001047 ms
+
+entry #994 created by 00:00:00.0000817 ms
+entry #994 addet to grid by 00:00:00.0000687 ms
+
+entry #995 created by 00:00:00.0000789 ms
+entry #995 addet to grid by 00:00:00.0000870 ms
+
+entry #996 created by 00:00:00.0000731 ms
+entry #996 addet to grid by 00:00:00.0000651 ms
+
+entry #997 created by 00:00:00.0000895 ms
+entry #997 addet to grid by 00:00:00.0000753 ms
+
+entry #998 created by 00:00:00.0000675 ms
+entry #998 addet to grid by 00:00:00.0000774 ms
+
+entry #999 created by 00:00:00.0001026 ms
+entry #999 addet to grid by 00:00:00.0000895 ms
+
+entry #1000 created by 00:00:00.0000746 ms
+entry #1000 addet to grid by 00:00:00.0000779 ms
+
+entry #1001 created by 00:00:00.0000532 ms
+entry #1001 addet to grid by 00:00:00.0000647 ms
+
+entry #1002 created by 00:00:00.0000488 ms
+entry #1002 addet to grid by 00:00:00.0000622 ms
+
+entry #1003 created by 00:00:00.0000552 ms
+entry #1003 addet to grid by 00:00:00.0000618 ms
+
+entry #1004 created by 00:00:00.0000522 ms
+entry #1004 addet to grid by 00:00:00.0000783 ms
+
+entry #1005 created by 00:00:00.0000846 ms
+entry #1005 addet to grid by 00:00:00.0000737 ms
+
+entry #1006 created by 00:00:00.0002741 ms
+entry #1006 addet to grid by 00:00:00.0000699 ms
+
+entry #1007 created by 00:00:00.0000528 ms
+entry #1007 addet to grid by 00:00:00.0000652 ms
+
+entry #1008 created by 00:00:00.0000724 ms
+entry #1008 addet to grid by 00:00:00.0000845 ms
+
+entry #1009 created by 00:00:00.0000765 ms
+entry #1009 addet to grid by 00:00:00.0017368 ms
+
+entry #1010 created by 00:00:00.0000836 ms
+entry #1010 addet to grid by 00:00:00.0000885 ms
+
+entry #1011 created by 00:00:00.0001266 ms
+entry #1011 addet to grid by 00:00:00.0000906 ms
+
+entry #1012 created by 00:00:00.0000635 ms
+entry #1012 addet to grid by 00:00:00.0000868 ms
+
+entry #1013 created by 00:00:00.0000767 ms
+entry #1013 addet to grid by 00:00:00.0000752 ms
+
+entry #1014 created by 00:00:00.0000899 ms
+entry #1014 addet to grid by 00:00:00.0000853 ms
+
+entry #1015 created by 00:00:00.0000575 ms
+entry #1015 addet to grid by 00:00:00.0000799 ms
+
+entry #1016 created by 00:00:00.0000609 ms
+entry #1016 addet to grid by 00:00:00.0000667 ms
+
+entry #1017 created by 00:00:00.0000567 ms
+entry #1017 addet to grid by 00:00:00.0000665 ms
+
+entry #1018 created by 00:00:00.0000472 ms
+entry #1018 addet to grid by 00:00:00.0000879 ms
+
+entry #1019 created by 00:00:00.0000634 ms
+entry #1019 addet to grid by 00:00:00.0000949 ms
+
+entry #1020 created by 00:00:00.0000813 ms
+entry #1020 addet to grid by 00:00:00.0000856 ms
+
+entry #1021 created by 00:00:00.0000556 ms
+entry #1021 addet to grid by 00:00:00.0000633 ms
+
+entry #1022 created by 00:00:00.0002716 ms
+entry #1022 addet to grid by 00:00:00.0000678 ms
+
+entry #1023 created by 00:00:00.0000511 ms
+entry #1023 addet to grid by 00:00:00.0000636 ms
+
+entry #1024 created by 00:00:00.0001567 ms
+entry #1024 addet to grid by 00:00:00.0000670 ms
+

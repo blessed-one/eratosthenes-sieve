@@ -5,51 +5,51 @@
 
     <ScrollView>
         <AbsoluteLayout
-            x:Name="Layout">
+            x:Name="Layout"
+            BackgroundColor="{DynamicResource Background}">
             <Label Text="Поиск простых чисел методом решета Эратосфена"
-                   AbsoluteLayout.LayoutBounds="740, 100">
-            </Label>
+                   AbsoluteLayout.LayoutBounds="740, 100"
+                   TextColor="{DynamicResource LabelText}"/>
             <Label AbsoluteLayout.LayoutBounds="740, 160"
-                   Text="Введите n: ">
-            </Label>
+                   Text="Введите n: "
+                   TextColor="{DynamicResource LabelText}"/>
             <Entry AbsoluteLayout.LayoutBounds="825, 150"
-                   x:Name="NEntry">
-            </Entry>
+                   x:Name="NEntry"
+                   BackgroundColor="{DynamicResource LabelBack}"
+                   TextColor="{DynamicResource LabelText}"/>
             <Button AbsoluteLayout.LayoutBounds="740, 50"
                     x:Name="ThemeButton"
+                    BackgroundColor="{DynamicResource Button}"
                     Text="Сменить тему"
-                    Clicked="OnThemeClicked">
-            </Button>
+                    Clicked="OnThemeClicked"/>
             <Button AbsoluteLayout.LayoutBounds="740, 210"
                     x:Name="GridButton"
+                    BackgroundColor="{DynamicResource Button}"
                     Text="Матрица"
                     Clicked="OnGridClicked"
-                    IsEnabled="False">
-            </Button>
+                    IsEnabled="False"/>
             <Button AbsoluteLayout.LayoutBounds="847, 210"
                     x:Name="StartButton"
+                    BackgroundColor="{DynamicResource Button}"
                     Text="Начать"
                     Clicked="OnStartClicked"
-                    IsEnabled="False">
-            </Button>
+                    IsEnabled="False"/>
             <Button AbsoluteLayout.LayoutBounds="940, 210"
                     x:Name="LoadButton"
+                    BackgroundColor="{DynamicResource Button}"
                     Text="Загрузить сборку"
-                    Clicked="OnLoadClicked">
-            </Button>
+                    Clicked="OnLoadClicked"/>
             <Label AbsoluteLayout.LayoutBounds="900, 160"
                    x:Name="RemainderLabel"
-                   TextColor="Red">
-            </Label>
+                   TextColor="Red"/>
             <Editor AbsoluteLayout.LayoutBounds="740, 300"
                    x:Name="ResultLabel"
-                   BackgroundColor="White"
-                   TextColor="Black"
+                   BackgroundColor="{DynamicResource LabelBack}"
+                   TextColor="{DynamicResource LabelText}"
                    Text="Простые числа до n: "
                    WidthRequest="600"
                    HeightRequest="300"
-                   IsReadOnly ="True">
-            </Editor>
+                   IsReadOnly ="True"/>
         </AbsoluteLayout>
     </ScrollView>
 

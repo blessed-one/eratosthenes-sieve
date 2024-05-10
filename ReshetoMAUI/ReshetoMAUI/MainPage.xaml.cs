@@ -1,4 +1,6 @@
 ﻿using ESContract;
+using Microsoft.UI.Xaml.Media.Animation;
+using System.Diagnostics;
 using System.Reflection;
 
 
@@ -89,12 +91,8 @@ public partial class MainPage : ContentPage
                 var ent = new Entry
                 {
                     Placeholder = $"{counter}",
-                    IsReadOnly = true,
-                    HorizontalTextAlignment = TextAlignment.Center,
-                    VerticalTextAlignment = TextAlignment.Center,
                     FontSize = 30 * (5 / (float)matrixSize),
                 };
-                ent.SetDynamicResource(Entry.BackgroundColorProperty, "Unknown");
                 _grid.Add(ent, j, i);
                 _matrix[i, j] = ent;
                 counter++;
@@ -204,10 +202,16 @@ public partial class MainPage : ContentPage
                 int y = n % matrixSize;
                 int x = n / matrixSize;
 
+                Color colour = step.State switch
+                {
+                    State.Good => new Color(0, 255, 0),
+                    State.Bad => new Color(255, 0, 0),
+                    _ => new Color(100, 100, 100),
+                };
+
                 await Task.Run(() =>
                 {
-                    Dispatcher.DispatchAsync(() => _matrix[x, y]
-                        .SetDynamicResource(Entry.BackgroundColorProperty, step.State.ToString()));
+                    Dispatcher.DispatchAsync(() => _matrix[x, y].BackgroundColor = colour);
                 });
             }
         }
